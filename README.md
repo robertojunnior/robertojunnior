@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🖖
 
 - 🔭 I’m currently working at "One Digital Developer" as a Web Developer.
 - 🌱 I’m currently learning HTML, CSS, JavaScript and English.
