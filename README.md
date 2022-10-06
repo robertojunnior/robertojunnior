@@ -20,7 +20,7 @@
 
 <div align="center"> 
 <br>
-  <a href="https://github.com/robertojunnior/Html_Css_JavaScript" target="_blank" rel="external">
+  <a href="https://github.com/robertojunnior/Html_Css_JavaScript" target="_blank" rel="noopener noreferrer">
   <img align="center" alt="Junior-Js" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
   <a href="https://github.com/robertojunnior/Html_Css_JavaScript" target="_blank" rel="external">
