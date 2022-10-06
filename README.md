@@ -20,9 +20,16 @@
 
 <div align="center"> 
 <br>
+  <a href="https://github.com/robertojunnior/Html_Css_JavaScript" target="_blank" rel="external">
   <img align="center" alt="Junior-Js" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
+  <a href="https://github.com/robertojunnior/Html_Css_JavaScript" target="_blank" rel="external">
   <img align="center" alt="Junior-HTML" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  
+  <a href="https://github.com/robertojunnior/Html_Css_JavaScript" target="_blank" rel="external">
   <img align="center" alt="Junior-CSS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  <a href="https://github.com/robertojunnior/python" target="_blank" rel="external">
   <img align="center" alt="Junior-Python" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
