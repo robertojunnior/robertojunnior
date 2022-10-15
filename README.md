@@ -1,6 +1,6 @@
 ### Hi there 🖖
 
-- 🔭 I’m currently working at "One Digital Developer" as a Web Developer.
+- 🔭 I’m currently working at "One Developer" as a Web Developer.
 - 🌱 I’m currently learning HTML, CSS, JavaScript and English.
 - 👯 I’m looking to collaborate on any project that accepts beginners! 👍
 - 🤔 I’m looking for help with learn HTML, CSS & JavaScript.
