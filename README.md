@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working at "One Developer" as a Web Developer and Graphic Designer.
 - 🌱 I’m currently learning HTML, CSS, JavaScript and English.
-- 👯 I’m looking to collaborate on any project that accepts beginners! 👍
+- 👯 I’m looking to collaborate on any project that accepts Dev's Jr! 👍
 - 🤔 I’m looking for help with learn HTML, CSS & JavaScript.
 - 💬 Ask me about My Life...
 - ⚡ Fun fact: I've given up so many times to study programming that I came back after giving up on giving up!😂 
