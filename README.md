@@ -35,7 +35,10 @@
 
 <br> 
 <br>
-
+    [![GitHub Streak](https://streak-stats.demolab.com?user=robertojunnior&theme=dark&border_radius=5)](https://git.io/streak-stats)
+<br> 
+<br>
+    
 <div align="center">
 <a target="_blank" rel="external" href="https://www.linkedin.com/in/roberto-r-junior">
 <img height="40" width="160"src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="external"></a>  
