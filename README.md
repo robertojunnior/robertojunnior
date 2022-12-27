@@ -1,6 +1,6 @@
 ### Hi there 🖖
 
-- 🔭 I’m currently working at "One Developer" as a Web Developer and Graphic Designer.
+- 🔭 I’m currently working at "One Developer" as a Web Developer Jr and Graphic Designer Freelancer.
 - 🌱 I’m currently learning HTML, CSS, JavaScript and English.
 - 👯 I’m looking to collaborate on any project that accepts Dev's Jr! 👍
 - 🤔 I’m looking for help with learn HTML, CSS & JavaScript.
