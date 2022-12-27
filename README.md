@@ -1,11 +1,17 @@
-### Hi there 🖖
-
-- 🔭 I’m currently working at "One Developer" as a Web Developer Jr and Graphic Designer Freelancer.
-- 🌱 I’m currently learning HTML, CSS, JavaScript and English.
-- 👯 I’m looking to collaborate on any project that accepts Dev's Jr! 👍
-- 🤔 I’m looking for help with learn HTML, CSS & JavaScript.
-- 💬 Ask me about My Life...
-- ⚡ Fun fact: I've given up so many times to study programming that I came back after giving up on giving up!😂 
+<h1 align="center">Hi there 👽</h1>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=My+name+is+Roberto+Junior.%F0%9F%98%81;Welcome+to+my+GitHub+profile!%F0%9F%96%96" alt="Typing SVG" /></a>
+</div>
+<div align="center">
+  <ul align="left" list-style="none">
+       <li><tr>🔭 I'm currently working at "One Developer" as a Web Developer Jr and Graphic Designer Freelancer.</tr></li>
+       <li><tr>🌱 I’m currently learning HTML, CSS, JavaScript and English.</tr></li>
+       <li><tr>👯 I’m looking to collaborate on any project that accepts Dev's Jr! 👍</tr></li>
+       <li><tr>🤔 I’m looking for help with learn HTML, CSS & JavaScript.</tr></li>
+       <li><tr>💬 Ask me about My Life...</tr></li>
+       <li><tr>⚡ Fun fact: I've given up so many times to study programming that I came back after giving up on giving up!😂 </tr></li>
+  </ul>
+</div>
 
 <br>
 
