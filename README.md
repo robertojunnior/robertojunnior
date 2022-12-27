@@ -37,7 +37,7 @@
 <br>
 
   <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=robertojunnior&theme=dark&hide_border=false"/></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=robertojunnior&theme=dracula&hide_border=false"/></a>
   </div>
 
 <br>
