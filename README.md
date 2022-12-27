@@ -35,8 +35,10 @@
 
 <br> 
 <br>
-    [![GitHub Streak](https://streak-stats.demolab.com?user=robertojunnior&theme=dark&border_radius=5)](https://git.io/streak-stats)
-<br> 
+
+  <div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a>
+  </div>
 <br>
     
 <div align="center">
