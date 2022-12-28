@@ -6,8 +6,8 @@
   <ul align="left" list-style="none">
        <li><tr>🔭 I'm currently working at "One Developer" as a Web Developer Jr and Graphic Designer Freelancer.</tr></li>
        <li><tr>🌱 I’m currently learning HTML, CSS, JavaScript and English.</tr></li>
-       <li><tr>👯 I’m looking to collaborate on any project that accepts Dev's Jr! 👍</tr></li>
-       <li><tr>🤔 I’m looking for help with learn HTML, CSS & JavaScript.</tr></li>
+       <li><tr>👯 I’m looking to collaborate on any project that accepts Dev Jr! 👍</tr></li>
+       <li><tr>🤔 I'm looking for partnerships to learn HTML, CSS and JavaScript.</tr></li>
        <li><tr>💬 Ask me about My Life...</tr></li>
        <li><tr>⚡ Fun fact: I've given up so many times to study programming that I came back after giving up on giving up!😂 </tr></li>
   </ul>
