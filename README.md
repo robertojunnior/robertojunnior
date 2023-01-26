@@ -5,7 +5,7 @@
 <div align="center">
   <ul align="left" list-style="none">
        <li><tr>🧑‍🚀 In 2022 I finished college as a Technologist in systems analysis and development 👨🏻‍🎓.
-       <li><tr>📖 I'm currently studying web programming and graphic design at several places that have free online courses.
+       <li><tr>📖 I'm currently studying web programming and graphic designer at several places that have free online courses.
        <li><tr>🔭 I'm currently working at "One Developer" as Graphic Designer Freelancer.</tr></li>
        <li><tr>🌱 The languages I'm learning are HTML, CSS, JavaScript and English.</tr></li>
        <li><tr>👯 I’m looking to collaborate on any project that accepts Dev Jr! 👍</tr></li>
