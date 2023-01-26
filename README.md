@@ -53,6 +53,8 @@
 <img height="40" width="160"src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="external"></a>  
 </div> -->
 
+<h1 align="center">Weekly immersion project
+
 <div align="center">
 <a rel="external" href="https://robertojunnior.github.io/nlw_e_sports/" target="_blank">
 <img align="center" alt="Junior-Rocketseat" height="80" width="100" src="https://global-uploads.webflow.com/61d83a2ebb0ae01ab96e841a/630ced17a99fbd99b6169b52_Logo-NLW-eSports.svg" target="_blank" rel="external"></a>
