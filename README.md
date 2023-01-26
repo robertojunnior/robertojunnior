@@ -18,7 +18,7 @@
 <div align="center">
   <a href="https://github.com/robertojunnior">
   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=robertojunnior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="41.4%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertojunnior&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertojunnior&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <br> 
