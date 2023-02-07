@@ -67,7 +67,9 @@
   
 <a rel="external" href="https://robertojunnior.github.io/projeto-mario/" target="_blank">
 <img align="center" alt="projeto-mario" height="60" width="60" src="https://github.com/robertojunnior/projeto-mario/blob/main/src/imagens/logo-chapeu-mario.png?raw=true" target="_blank" rel="external"></a>
-  
+
+<a rel="external" href="https://robertojunnior.github.io/conversor-de-moedas/" target="_blank">
+<img align="center" alt="conversor-de-moedas" height="60" width="60" src="./assets/logo-alura.png" target="_blank" rel="external"></a>  
 </div>
 
 
