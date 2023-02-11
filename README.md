@@ -49,12 +49,6 @@
 
 <br>
 
-<!--     
-<div align="center">
-<a target="_blank" rel="external" href="https://www.linkedin.com/in/roberto-r-junior">
-<img height="40" width="160"src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="external"></a>  
-</div> -->
-
 <h2 align="center">Latest projects and immersions 🚀
 <br>
 
@@ -69,7 +63,10 @@
 <img align="center" alt="projeto-mario" height="60" width="60" src="https://github.com/robertojunnior/projeto-mario/blob/main/src/imagens/logo-chapeu-mario.png?raw=true" target="_blank" rel="external"></a>
 
 <a rel="external" href="https://github.com/robertojunnior/conversor-de-moedas/" target="_blank">
-<img align="center" alt="conversor-de-moedas" height="60" width="60" src="./assets/logo-alura.png" target="_blank" rel="external"></a>  
+<img align="center" alt="conversor-de-moedas" height="60" width="60" src="./assets/logo-alura.png" target="_blank" rel="external"></a>
+  
+<a rel="external" href="https://github.com/robertojunnior/jazz-school/" target="_blank">
+<img align="center" alt="jazz-school" height="60" width="60" src="https://raw.githubusercontent.com/robertojunnior/jazz-school/a0eb2dd78a4fb055b75c59674838fdc570c21434/img/logo-white.svg" target="_blank" rel="external"></a>
 </div>
 
 
