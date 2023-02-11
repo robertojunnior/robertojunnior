@@ -55,7 +55,7 @@
 <img height="40" width="160"src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="external"></a>  
 </div> -->
 
-<h2 align="center">Weekly immersion project 🚀
+<h2 align="center">Latest projects and immersions 🚀
 <br>
 
 <div align="center">
