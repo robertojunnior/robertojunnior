@@ -5,7 +5,7 @@
 <div align="center">
   <ul align="left" list-style="none">
        <li><tr>🧑‍🚀 In 2022 I finished college as a Technologist in systems analysis and development 👨🏻‍🎓.
-       <li><tr>📖 I am currently studying web development at Alura school.
+       <li><tr>📖 I'm currently studying web development at Alura school.
        <li><tr>🔭 I'm currently working at "One Developer" as Graphic Designer Freelancer.</tr></li>
        <li><tr>🌱 The languages I'm learning are HTML, CSS, JavaScript and English.</tr></li>
        <li><tr>👯 I’m looking to collaborate on any project that accepts Dev Jr! 👍</tr></li>
@@ -27,13 +27,13 @@
 
 <div align="center"> 
 <br>
-  <a href="https://github.com/robertojunnior/Html_Css_JavaScript" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/robertojunnior/alura" target="_blank" rel="noopener noreferrer">
   <img align="center" alt="Junior-Js" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
-  <a href="https://github.com/robertojunnior/Html_Css_JavaScript" target="_blank" rel="external">
+  <a href="https://github.com/robertojunnior/alura" target="_blank" rel="external">
   <img align="center" alt="Junior-HTML" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   
-  <a href="https://github.com/robertojunnior/Html_Css_JavaScript" target="_blank" rel="external">
+  <a href="https://github.com/robertojunnior/alura" target="_blank" rel="external">
   <img align="center" alt="Junior-CSS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   <a href="https://github.com/robertojunnior/python" target="_blank" rel="external">
