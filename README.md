@@ -59,6 +59,9 @@
 <a rel="external" href="https://robertojunnior.github.io/nlw-setup/" target="_blank">
 <img align="center" alt="Junior-Rocketseat" height="80" width="100" src="./assets/logo.svg" target="_blank" rel="external"></a>
   
+<a rel="external" href="https://robertojunnior.github.io/projeto-tela-de-login/" target="_blank">
+<img align="center" alt="Junior-Rocketseat" height="80" width="100" src="https://github.com/robertojunnior/projeto-tela-de-login/blob/master/assets/img/astronaut.svg" target="_blank" rel="external"></a>
+  
 <a rel="external" href="https://robertojunnior.github.io/projeto-mario/" target="_blank">
 <img align="center" alt="projeto-mario" height="60" width="60" src="https://github.com/robertojunnior/projeto-mario/blob/main/src/imagens/logo-chapeu-mario.png?raw=true" target="_blank" rel="external"></a>
 
