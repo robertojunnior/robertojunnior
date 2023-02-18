@@ -49,13 +49,13 @@
 
 <br>
 
-<h2 align="center">Latest projects and immersions 🚀
+<h2 align="center">Latest projects and immersions🚀</h2>
 <br>
 
 <div align="center">
 <a rel="external" href="https://robertojunnior.github.io/nlw_e_sports/" target="_blank">
 <img align="center" alt="Junior-Rocketseat" height="80" width="100" src="https://global-uploads.webflow.com/61d83a2ebb0ae01ab96e841a/630ced17a99fbd99b6169b52_Logo-NLW-eSports.svg" target="_blank" rel="external"></a>
-
+ 
 <a rel="external" href="https://robertojunnior.github.io/nlw-setup/" target="_blank">
 <img align="center" alt="Junior-Rocketseat" height="80" width="100" src="./assets/logo.svg" target="_blank" rel="external"></a>
   
@@ -69,12 +69,23 @@
 <img align="center" alt="conversor-de-moedas" height="60" width="60" src="https://github.com/robertojunnior/conversor-de-moedas/blob/main/imagens/icone-moeda.png" target="_blank" rel="external"></a>
   
 <a rel="external" href="https://github.com/robertojunnior/jazz-school/" target="_blank">
-<img align="center" alt="jazz-school" height="60" width="60" src="https://raw.githubusercontent.com/robertojunnior/jazz-school/a0eb2dd78a4fb055b75c59674838fdc570c21434/img/logo-white.svg" target="_blank" rel="external"></a>
+<img align="center" alt="jazz-school" height="60" width="60" src="https://raw.githubusercontent.com/robertojunnior/jazz-school/a0eb2dd78a4fb055b75c59674838fdc570c21434/img/logo-white.svg" target="_blank" rel="external">
+</a>
 </div>
 
-
  <br>
-        
+ 
+<h2 align="center">Current project under development 🧑‍🚀</h2>   
+<br>
+<div align="center">
+  <a rel="external" href="https://github.com/robertojunnior/portfolio/" target="_blank">
+  <img align="center" alt="jazz-school" height="60" width="60" src="https://github.com/robertojunnior/alura/blob/main/portfolio/assets/Alura.png" target="_blank" rel="external">
+  </a>
+</div>
+    
+  <br>
+  <br>  
+
 <div align="center"> 
   <a href="https://instagram.com/_onedeveloper/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/juniorsnoop" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
