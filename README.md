@@ -79,7 +79,7 @@
 <br>
 <div align="center">
   <a rel="external" href="https://github.com/robertojunnior/alura/tree/main/portfolio" target="_blank">
-  <img align="center" alt="jazz-school" height="60" width="60" src="https://github.com/robertojunnior/alura/blob/main/portfolio/assets/Alura.png" target="_blank" rel="external">
+  <img align="center" alt="portfolio-alura" height="60" width="60" src="https://github.com/robertojunnior/alura/blob/main/portfolio-alura/assets/Alura.png" target="_blank" rel="external">
   </a>
 </div>
     
