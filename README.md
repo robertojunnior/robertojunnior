@@ -78,7 +78,7 @@
 <h2 align="center">Current project under development 🧑‍🚀</h2>   
 <br>
 <div align="center">
-  <a rel="external" href="https://github.com/robertojunnior/alura/tree/main/portfolio-alura" target="_blank">
+  <a rel="external" href="https://github.com/robertojunnior/alura/" target="_blank">
   <img align="center" alt="portfolio-alura" height="60" width="60" src="https://github.com/robertojunnior/alura/blob/main/portfolio-alura/assets/Alura.png" target="_blank" rel="external">
   </a>
 </div>
