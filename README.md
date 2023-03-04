@@ -28,16 +28,16 @@
 <div align="center"> 
 <br>
   <a href="https://github.com/robertojunnior/alura" target="_blank" rel="noopener noreferrer">
-  <img align="center" alt="Junior-Js" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Junior-Js" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
   <a href="https://github.com/robertojunnior/alura" target="_blank" rel="external">
-  <img align="center" alt="Junior-HTML" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Junior-HTML" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   
   <a href="https://github.com/robertojunnior/alura" target="_blank" rel="external">
-  <img align="center" alt="Junior-CSS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Junior-CSS" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   <a href="https://github.com/robertojunnior/python" target="_blank" rel="external">
-  <img align="center" alt="Junior-Python" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Junior-Python" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 <br> 
@@ -54,26 +54,26 @@
 
 <div align="center">
 <a rel="external" href="https://robertojunnior.github.io/nlw_e_sports/" target="_blank">
-<img align="center" alt="Junior-Rocketseat" height="80" width="100" src="https://global-uploads.webflow.com/61d83a2ebb0ae01ab96e841a/630ced17a99fbd99b6169b52_Logo-NLW-eSports.svg" target="_blank" rel="external"></a>
+<img align="center" alt="Junior-Rocketseat" width="100px" src="https://global-uploads.webflow.com/61d83a2ebb0ae01ab96e841a/630ced17a99fbd99b6169b52_Logo-NLW-eSports.svg" target="_blank" rel="external"></a>
  
 <a rel="external" href="https://robertojunnior.github.io/nlw-setup/" target="_blank">
-<img align="center" alt="Junior-Rocketseat" height="80" width="100" src="./assets/logo.svg" target="_blank" rel="external"></a>
+<img align="center" alt="Junior-Rocketseat" width="100px" src="./assets/logo.svg" target="_blank" rel="external"></a>
   
 <a rel="external" href="https://robertojunnior.github.io/projeto-tela-de-login/" target="_blank">
-<img align="center" alt="Junior-Rocketseat" height="80" width="100" src="https://github.com/robertojunnior/projeto-tela-de-login/blob/master/assets/img/astronaut.svg" target="_blank" rel="external"></a>
+<img align="center" alt="Junior-Rocketseat" width="100px" src="https://github.com/robertojunnior/projeto-tela-de-login/blob/master/assets/img/astronaut.svg" target="_blank" rel="external"></a>
   
 <a rel="external" href="https://robertojunnior.github.io/projeto-mario/" target="_blank">
-<img align="center" alt="projeto-mario" height="60" width="60" src="https://github.com/robertojunnior/projeto-mario/blob/main/src/imagens/logo-chapeu-mario.png?raw=true" target="_blank" rel="external"></a>
+<img align="center" alt="projeto-mario" width="100px" src="https://github.com/robertojunnior/projeto-mario/blob/main/src/imagens/logo-chapeu-mario.png?raw=true" target="_blank" rel="external"></a>
 
 <a rel="external" href="https://github.com/robertojunnior/conversor-de-moedas/" target="_blank">
-<img align="center" alt="conversor-de-moedas" height="60" width="60" src="https://github.com/robertojunnior/conversor-de-moedas/blob/main/imagens/icone-moeda.png" target="_blank" rel="external"></a>
+<img align="center" alt="conversor-de-moedas" width="100px" src="https://github.com/robertojunnior/conversor-de-moedas/blob/main/imagens/icone-moeda.png" target="_blank" rel="external"></a>
   
 <a rel="external" href="https://github.com/robertojunnior/jazz-school/" target="_blank">
-<img align="center" alt="jazz-school" height="60" width="60" src="https://raw.githubusercontent.com/robertojunnior/jazz-school/a0eb2dd78a4fb055b75c59674838fdc570c21434/img/logo-white.svg" target="_blank" rel="external"></a>
+<img align="center" alt="jazz-school" width="100px" src="https://raw.githubusercontent.com/robertojunnior/jazz-school/a0eb2dd78a4fb055b75c59674838fdc570c21434/img/logo-white.svg" target="_blank" rel="external"></a>
 
   
-<a rel="external" href="https://github.com/robertojunnior/jazz-school/" target="_blank">
-<img align="center" alt="jazz-school" height="60" width="60" src="https://raw.githubusercontent.com/robertojunnior/jazz-school/a0eb2dd78a4fb055b75c59674838fdc570c21434/img/logo-white.svg" target="_blank" rel="external"></a>
+<a rel="external" href="https://github.com/robertojunnior/alura/" target="_blank">
+<img align="center" alt="jazz-school" width="100px" src="https://raw.githubusercontent.com/robertojunnior/alura/9c79f47b49bdd94d87398d5e01224401a01901d6/portfolio-alura/assets/img.svg" target="_blank" rel="external"></a>
 
 </div>
 
@@ -83,7 +83,7 @@
 <br>
 <div align="center">
   <a rel="external" href="https://github.com/robertojunnior/alura/" target="_blank">
-  <img align="center" alt="portfolio-alura" height="60" width="60" src="https://github.com/robertojunnior/alura/blob/main/portfolio-alura/assets/Alura.png" target="_blank" rel="external">
+  <img align="center" alt="alura-plus" width="140px" src="https://github.com/robertojunnior/alura/blob/main/alura-plus/assets/combo.png?raw=true" target="_blank" rel="external">
   </a>
 </div>
     
