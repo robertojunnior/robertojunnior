@@ -83,7 +83,7 @@
 <br>
 <div align="center">
   <a rel="external" href="https://github.com/robertojunnior/alura/" target="_blank">
-  <img align="center" alt="alura-plus" width="140px" src="https://github.com/robertojunnior/alura/blob/main/alura-plus/assets/combo.png?raw=true" target="_blank" rel="external">
+  <img align="center" alt="alura-plus" width="160px" src="https://github.com/robertojunnior/alura/blob/main/alura-plus/assets/combo.png?raw=true" target="_blank" rel="external">
   </a>
 </div>
     
