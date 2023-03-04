@@ -28,16 +28,16 @@
 <div align="center"> 
 <br>
   <a href="https://github.com/robertojunnior/alura" target="_blank" rel="noopener noreferrer">
-  <img align="center" alt="Junior-Js" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Junior-Js" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
   <a href="https://github.com/robertojunnior/alura" target="_blank" rel="external">
-  <img align="center" alt="Junior-HTML" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Junior-HTML" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   
   <a href="https://github.com/robertojunnior/alura" target="_blank" rel="external">
-  <img align="center" alt="Junior-CSS" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Junior-CSS" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   <a href="https://github.com/robertojunnior/python" target="_blank" rel="external">
-  <img align="center" alt="Junior-Python" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Junior-Python" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 <br> 
