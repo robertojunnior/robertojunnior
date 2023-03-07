@@ -65,7 +65,7 @@
 <img align="center" alt="Junior-Rocketseat" width="100px" src="https://github.com/robertojunnior/projeto-tela-de-login/blob/master/assets/img/astronaut.svg" target="_blank" rel="external"></a>
   
 <a rel="external" href="https://robertojunnior.github.io/projeto-mario/" target="_blank">
-<img align="center" alt="projeto-mario" width="100px" src="https://github.com/robertojunnior/projeto-mario/blob/main/src/imagens/logo-chapeu-mario.png?raw=true" target="_blank" rel="external"></a>
+<img align="center" alt="projeto-mario" width="80px" src="https://github.com/robertojunnior/projeto-mario/blob/main/src/imagens/logo-chapeu-mario.png?raw=true" target="_blank" rel="external"></a>
 
 <a rel="external" href="https://github.com/robertojunnior/conversor-de-moedas/" target="_blank">
 <img align="center" alt="conversor-de-moedas" width="100px" src="https://github.com/robertojunnior/conversor-de-moedas/blob/main/imagens/icone-moeda.png" target="_blank" rel="external"></a>
