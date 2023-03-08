@@ -38,9 +38,8 @@
   <a href="https://github.com/robertojunnior/alura" target="_blank" rel="external">
   <img align="center" alt="Junior-CSS" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
- <td> <a href="https://github.com/robertojunnior/python" target="_blank" rel="external">
+  <a href="https://github.com/robertojunnior/python" target="_blank" rel="external">
   <img align="center" alt="Junior-Python" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    </td>
 </div>
 
 <br> 
