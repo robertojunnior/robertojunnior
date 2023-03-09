@@ -27,8 +27,28 @@
 
 <br> 
 
-<div align="center"> 
+
+<h2 align="center">Connect with me:</h3>
 <br>
+<div align="center"> 
+  <a href="https://behance.com/robertojunnior" target="_blank" rel="external">
+  <img align="center" alt="Junior-Be" width="50px" src="https://cdn-icons-png.flaticon.com/512/3670/3670094.png">
+  
+  <a href="https://instagram.com/_onedeveloper" target="_blank" rel="external">
+  <img align="center" alt="Junior-instagram" width="50px" src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png">
+  
+  <a href="https://linkedin.com/in/roberto-r-junior/" target="_blank" rel="external">
+  <img align="center" alt="Junior-in" width="50px" src="https://cdn-icons-png.flaticon.com/512/4494/4494498.png">
+  
+  <a href="https://discord.gg/e9SU4WNz" target="_blank" rel="external">
+  <img align="center" alt="Junior-discord" width="50px" src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png">
+  
+</div>
+
+
+<h2 align="center">Languages and Tools:</h3>
+<br>
+<div align="center"> 
   <a href="https://github.com/robertojunnior/alura" target="_blank" rel="noopener noreferrer">
   <img align="center" alt="Junior-Js" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
@@ -55,6 +75,7 @@
 <br>
 
 <div align="center">
+
 <a rel="external" href="https://robertojunnior.github.io/nlw_e_sports/" target="_blank">
 <img align="center" alt="Junior-Rocketseat" width="100px" src="https://global-uploads.webflow.com/61d83a2ebb0ae01ab96e841a/630ced17a99fbd99b6169b52_Logo-NLW-eSports.svg" target="_blank" rel="external"></a>
  
