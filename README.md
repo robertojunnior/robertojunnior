@@ -71,7 +71,7 @@
 
 <br>
 
-<h2 align="center">Latest projects and immersions🚀</h2>
+<h2 align="center">Latest projects and immersions: 🚀</h2>
 <br>
 
 <div align="center">
@@ -102,7 +102,7 @@
 
  <br>
  
-<h2 align="center">Current project under development 🧑‍🚀</h2>   
+<h2 align="center">Current project under development:🧑‍🚀</h2>   
 <br>
 <div align="center">
   <a rel="external" href="https://github.com/robertojunnior/alura/" target="_blank">
