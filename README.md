@@ -108,7 +108,7 @@
 
 <div align="center">
   <a rel="external" href="https://github.com/robertojunnior/alura/" target="_blank">
-  <img align="center" alt="alura-book" width="240px" src="https://github.com/robertojunnior/alura/blob/main/alura-book/assets/logo-wgite.png?raw=true" target="_blank" rel="external">
+  <img align="center" alt="alura-book" width="240px" src="https://github.com/robertojunnior/alura/blob/main/alura-book/img/logo-wgite.png?raw=true" target="_blank" rel="external">
   </a>
 </div>
     
