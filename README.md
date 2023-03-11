@@ -19,20 +19,20 @@
 <br>
 
 <h2 align="center">Connect with me:</h3>
-<br>
+
+
 <div align="center"> 
   <a href="https://behance.com/robertojunnior" target="_blank" rel="external">
   <img align="center" alt="Junior-Be" width="50px" src="https://cdn-icons-png.flaticon.com/512/3670/3670094.png">
-  
   <a href="https://instagram.com/_onedeveloper" target="_blank" rel="external">
   <img align="center" alt="Junior-instagram" width="50px" src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png">
-  
   <a href="https://linkedin.com/in/roberto-r-junior/" target="_blank" rel="external">
   <img align="center" alt="Junior-in" width="50px" src="https://cdn-icons-png.flaticon.com/512/4494/4494498.png">
-  
   <a href="https://discord.gg/e9SU4WNz" target="_blank" rel="external">
   <img align="center" alt="Junior-discord" width="50px" src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png">
-  
+
+  <a href="mailto:roberjunior.dev@gmail.com" target="_blank" rel="external">
+  <img align="center" alt="Junior-discord" width="50px" src="https://cdn-icons-png.flaticon.com/512/552/552486.png">
 </div>
 
 <br> 
@@ -47,7 +47,6 @@
 <br> 
 
 <h2 align="center">Languages and Tools:</h3>
-<br>
 <div align="center"> 
   <a href="https://github.com/robertojunnior/alura" target="_blank" rel="noopener noreferrer">
   <img align="center" alt="Junior-Js" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -72,7 +71,7 @@
 <br>
 
 <h2 align="center">Latest projects and immersions: 🚀</h2>
-<br>
+
 
 <table>
   <div align="center">
@@ -106,7 +105,7 @@
 <br>
  
 <h2 align="center">Current project under development:🧑‍🚀</h2>   
-<br>
+
 <div align="center">
   <a rel="external" href="https://github.com/robertojunnior/alura/" target="_blank">
   <img align="center" alt="alura-book" width="240px" src="https://github.com/robertojunnior/alura/blob/main/alura-book/assets/logo-wgite.png?raw=true" target="_blank" rel="external">
