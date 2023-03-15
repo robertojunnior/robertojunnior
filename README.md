@@ -65,11 +65,10 @@
 <br> 
 <br>
 
-  <div align="center">
+<!--   <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=robertojunnior&theme=dracula&hide_border=false"/></a>
-  </div>
+  </div> -->
 
-<br>
 
 <h2 align="center">Latest projects and immersions: 🚀</h2>
 
