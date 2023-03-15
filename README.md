@@ -97,7 +97,7 @@
   <img align="center" alt="jazz-school" width="100px" src="https://raw.githubusercontent.com/robertojunnior/alura/9c79f47b49bdd94d87398d5e01224401a01901d6/portfolio-alura/assets/img.svg" target="_blank" rel="external"></a>
   
   <a rel="external" href="https://github.com/robertojunnior/alura/" target="_blank">
-    <img align="center" alt="alura-plus" width="130px" src="https://github.com/robertojunnior/alura/blob/main/alura-plus/assets/combo.png?raw=true" target="_blank" rel="external">
+    <img align="center" alt="alura-plus" width="130px" src="https://github.com/robertojunnior/alura/blob/main/alura-plus/assets/combo-green.png?raw=true" target="_blank" rel="external">
   </a>
   </div>
 </table>
