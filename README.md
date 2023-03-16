@@ -73,7 +73,7 @@
 
 
 
-<table align="center">
+<table height="110px" align="center">
   <tr>
     <td align="center">
         <a rel="external" href="https://robertojunnior.github.io/nlw_e_sports/" target="_blank">
