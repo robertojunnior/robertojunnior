@@ -112,26 +112,6 @@
           </a>
       </td>
     <tr>
-    <tr>
-      <td align="center">
-          <a rel="external" href="https://github.com/robertojunnior/conversor-de-moedas/" target="_blank">
-          <img align="center" alt="conversor-de-moedas" width="100px" src="https://github.com/robertojunnior/conversor-de-moedas/blob/main/imagens/icone-moeda.png?raw=true" target="_blank" rel="external"></a>
-      </td>
-      <td align="center">
-          <a rel="external" href="https://github.com/robertojunnior/jazz-school/" target="_blank">
-          <img align="center" alt="jazz-school" width="100px" src="https://raw.githubusercontent.com/robertojunnior/jazz-school/a0eb2dd78a4fb055b75c59674838fdc570c21434/img/logo-white.svg" target="_blank" rel="external"></a>
-      </td>
-      <td align="center">
-            <a rel="external" href="https://github.com/robertojunnior/alura/" target="_blank">
-          <img align="center" alt="jazz-school" width="100px" src="https://raw.githubusercontent.com/robertojunnior/alura/9c79f47b49bdd94d87398d5e01224401a01901d6/portfolio-alura/assets/img.svg" target="_blank" rel="external"></a>
-      </td>
-      <td align="center">
-          <a rel="external" href="https://github.com/robertojunnior/alura/" target="_blank">
-          <img align="center" alt="alura-plus" width="130px" src="https://github.com/robertojunnior/alura/blob/main/alura-plus/assets/combo-green.png?raw=true" target="_blank" rel="external">
-          </a>
-      </td>
-    <tr>
-
   </table>
 </div>
 
