@@ -90,7 +90,7 @@
     </td>
     <td align="center">
         <a rel="external" href="https://robertojunnior.github.io/projeto-mario/" target="_blank">
-        <img align="center" alt="projeto-mario" width="80px" src="https://github.com/robertojunnior/projeto-mario/blob/main/src/imagens/logo-chapeu-mario.png?raw=true" target="_blank" rel="external"></a>
+        <img align="center" alt="projeto-mario" width="70px" src="https://github.com/robertojunnior/projeto-mario/blob/main/src/imagens/logo-chapeu-mario.png?raw=true" target="_blank" rel="external"></a>
     </td>
   </tr>
   <tr>
