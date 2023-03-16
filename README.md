@@ -113,6 +113,7 @@
     </td>
   <tr>
 </table>
+    <br>
  
 <h2 align="center">🧑‍🚀 Current project under development:</h2>   
 
