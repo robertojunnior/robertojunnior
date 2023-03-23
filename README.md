@@ -50,15 +50,15 @@
 <br> 
 
 <h2 align="center">Languages and Tools:</h3>
-<div align="center"> 
-  <a href="https://github.com/robertojunnior/alura" target="_blank" rel="noopener noreferrer">
-  <img align="center" alt="Junior-Js" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
+<div align="center">
   <a href="https://github.com/robertojunnior/alura" target="_blank" rel="external">
   <img align="center" alt="Junior-HTML" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   
   <a href="https://github.com/robertojunnior/alura" target="_blank" rel="external">
   <img align="center" alt="Junior-CSS" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    
+   <a href="https://github.com/robertojunnior/alura" target="_blank" rel="noopener noreferrer">
+  <img align="center" alt="Junior-Js" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
   <a href="https://github.com/robertojunnior/python" target="_blank" rel="external">
   <img align="center" alt="Junior-Python" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
