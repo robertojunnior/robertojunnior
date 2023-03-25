@@ -64,9 +64,9 @@
   <img align="center" alt="Junior-Python" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-  <!-- <div align="center">
+  <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=robertojunnior&theme=dracula&hide_border=false"/></a>
-  </div> -->
+  </div>
 
 <br>
 <h2 align="center">🚀 Latest projects and immersions:</h2>
