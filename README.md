@@ -95,9 +95,9 @@
       <img align="center" alt="projeto-mario" width="70px" src="https://github.com/robertojunnior/projeto-mario/blob/main/src/imagens/logo-chapeu-mario.png?raw=true" target="_blank" rel="external"></a>
     </td>
     <td>
-      <div align="center">
+      <div align="center" rowspan="2">
       <a rel="external" href="https://github.com/robertojunnior/alura/" target="_blank">
-      <img align="center" alt="alura-book" width="240px" src="https://github.com/robertojunnior/alura-books/blob/master/img/logo-wgite.png?raw=true" target="_blank" rel="external">
+      <img align="center" alt="alura-book" width="60px" src="https://raw.githubusercontent.com/robertojunnior/alura-books/fcdadc5b5961aa25e555bfc31a0dd47e046eb361/img/Logo.svg" target="_blank" rel="external">
       </a>
       </div>
     </td>
@@ -115,7 +115,7 @@
       <a rel="external" href="https://github.com/robertojunnior/alura-portfolio/" target="_blank">
       <img align="center" alt="jazz-school" width="100px" src="https://raw.githubusercontent.com/robertojunnior/alura/9c79f47b49bdd94d87398d5e01224401a01901d6/portfolio-alura/assets/img.svg" target="_blank" rel="external"></a>
     </td>
-    <td align="center" rowspan="2">
+    <td align="center">
       <a rel="external" href="https://github.com/robertojunnior/alura-books/" target="_blank">
       <img align="center" alt="alura-plus" width="130px" src="https://github.com/robertojunnior/alura-plus/blob/master/assets/combo-green.png?raw=true" target="_blank" rel="external">
       </a>
