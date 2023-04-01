@@ -94,18 +94,18 @@
       <a rel="external" href="https://robertojunnior.github.io/projeto-mario/" target="_blank">
       <img align="center" alt="projeto-mario" width="70px" src="https://github.com/robertojunnior/projeto-mario/blob/main/src/imagens/logo-chapeu-mario.png?raw=true" target="_blank" rel="external"></a>
     </td>
+    <td align="center">
+      <a rel="external" href="https://github.com/robertojunnior/conversor-de-moedas/" target="_blank">
+      <img align="center" alt="conversor-de-moedas" width="100px" src="https://github.com/robertojunnior/conversor-de-moedas/blob/main/imagens/icone-moeda.png?raw=true" target="_blank" rel="external"></a>
+    </td>
+  </tr>
+  <tr>
     <td>
       <div align="center" rowspan="2">
       <a rel="external" href="https://github.com/robertojunnior/alura/" target="_blank">
       <img align="center" alt="alura-book" width="60px" src="https://raw.githubusercontent.com/robertojunnior/alura-books/fcdadc5b5961aa25e555bfc31a0dd47e046eb361/img/Logo.svg" target="_blank" rel="external">
       </a>
       </div>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a rel="external" href="https://github.com/robertojunnior/conversor-de-moedas/" target="_blank">
-      <img align="center" alt="conversor-de-moedas" width="100px" src="https://github.com/robertojunnior/conversor-de-moedas/blob/main/imagens/icone-moeda.png?raw=true" target="_blank" rel="external"></a>
     </td>
     <td align="center">
       <a rel="external" href="https://github.com/robertojunnior/jazz-school/" target="_blank">
