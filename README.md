@@ -50,30 +50,33 @@
 <br> 
 
 <h2 align="center">Languages and Tools:</h3>
-<div align="center"> 
-  <a href="https://github.com/robertojunnior/alura" target="_blank" rel="noopener noreferrer">
-  <img align="center" alt="Junior-Js" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
+<div align="center">
   <a href="https://github.com/robertojunnior/alura" target="_blank" rel="external">
   <img align="center" alt="Junior-HTML" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   
   <a href="https://github.com/robertojunnior/alura" target="_blank" rel="external">
   <img align="center" alt="Junior-CSS" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    
+   <a href="https://github.com/robertojunnior/alura" target="_blank" rel="noopener noreferrer">
+  <img align="center" alt="Junior-Js" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
   <a href="https://github.com/robertojunnior/python" target="_blank" rel="external">
   <img align="center" alt="Junior-Python" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-  <!-- <div align="center">
+<br>     
+<br>
+
+  <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=robertojunnior&theme=dracula&hide_border=false"/></a>
-  </div> -->
+  </div>
 
 <br>
 <h2 align="center">🚀 Latest projects and immersions:</h2>
 
 
 
-<table align="center">
+<table height="220px" align="center">
   <tr>
     <td align="center">
         <a rel="external" href="https://robertojunnior.github.io/nlw_e_sports/" target="_blank">
@@ -90,7 +93,7 @@
     </td>
     <td align="center">
         <a rel="external" href="https://robertojunnior.github.io/projeto-mario/" target="_blank">
-        <img align="center" alt="projeto-mario" width="80px" src="https://github.com/robertojunnior/projeto-mario/blob/main/src/imagens/logo-chapeu-mario.png?raw=true" target="_blank" rel="external"></a>
+        <img align="center" alt="projeto-mario" width="70px" src="https://github.com/robertojunnior/projeto-mario/blob/main/src/imagens/logo-chapeu-mario.png?raw=true" target="_blank" rel="external"></a>
     </td>
   </tr>
   <tr>
@@ -113,14 +116,12 @@
     </td>
   <tr>
 </table>
-
-
-<br>
+    <br>
  
 <h2 align="center">🧑‍🚀 Current project under development:</h2>   
 
 <div align="center">
-  <a rel="external" href="https://github.com/robertojunnior/alura-books/" target="_blank">
+  <a rel="external" href="https://github.com/robertojunnior/alura/" target="_blank">
   <img align="center" alt="alura-book" width="240px" src="https://github.com/robertojunnior/alura-plus/blob/master/assets/combo-green.png?raw=true" target="_blank" rel="external">
   </a>
 </div>
