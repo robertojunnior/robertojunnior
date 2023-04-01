@@ -100,13 +100,6 @@
     </td>
   </tr>
   <tr>
-    <td>
-      <div align="center" rowspan="2">
-      <a rel="external" href="https://github.com/robertojunnior/alura/" target="_blank">
-      <img align="center" alt="alura-book" width="60px" src="https://raw.githubusercontent.com/robertojunnior/alura-books/fcdadc5b5961aa25e555bfc31a0dd47e046eb361/img/Logo.svg" target="_blank" rel="external">
-      </a>
-      </div>
-    </td>
     <td align="center">
       <a rel="external" href="https://github.com/robertojunnior/jazz-school/" target="_blank">
       <img align="center" alt="jazz-school" width="100px" src="https://raw.githubusercontent.com/robertojunnior/jazz-school/a0eb2dd78a4fb055b75c59674838fdc570c21434/img/logo-white.svg" target="_blank" rel="external"></a>
@@ -118,6 +111,11 @@
     <td align="center">
       <a rel="external" href="https://github.com/robertojunnior/alura-books/" target="_blank">
       <img align="center" alt="alura-plus" width="130px" src="https://github.com/robertojunnior/alura-plus/blob/master/assets/combo-green.png?raw=true" target="_blank" rel="external">
+      </a>
+    </td>
+    <td align="center" colspan="2">
+      <a rel="external" href="https://github.com/robertojunnior/alura-books/" target="_blank">
+      <img align="center" alt="alura-book" width="200px" src="https://github.com/robertojunnior/alura-books/blob/master/img/logo-wgite.png?raw=true" target="_blank" rel="external">
       </a>
     </td>
   <tr>
