@@ -75,10 +75,10 @@
 <h2 align="center">🚀 Latest projects and immersions:</h2>
 
 <style>
-  td{
+  td {
     background-color: rgb(22, 27, 34);
   }
-  </style>
+</style>
 
 
 <table height="220px" align="center">
