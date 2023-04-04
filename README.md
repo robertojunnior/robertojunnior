@@ -76,7 +76,7 @@
 
 <style>
   td {
-    background-color: rgb(22, 27, 34);
+    background-color: #161B22;
   }
 </style>
 
