@@ -113,7 +113,7 @@
       <img align="center" alt="alura-plus" width="130px" src="https://github.com/robertojunnior/alura-plus/blob/master/assets/combo-green.png?raw=true" target="_blank" rel="external">
       </a>
     </td>
-    <td align="center" colspan="2">
+    <td align="center" colspan="2" background="#161B22">
       <a rel="external" href="https://github.com/robertojunnior/alura-books/" target="_blank">
       <img align="center" alt="alura-book" width="200px" src="https://github.com/robertojunnior/alura-books/blob/master/img/logo-wgite.png?raw=true" target="_blank" rel="external">
       </a>
