@@ -74,45 +74,52 @@
 <br>
 <h2 align="center">🚀 Latest projects and immersions:</h2>
 
+<!-- <style>
+  td {
+    background-color: #161B22;
+  }
+</style> -->
+
+
 
 <table height="220px" align="center">
   <tr>
-    <td align="center">
+    <td align="center" bgcolor="#161B22">
       <a rel="external" href="https://robertojunnior.github.io/nlw_e_sports/" target="_blank">
       <img align="center" alt="Junior-Rocketseat" width="100px" src="https://global-uploads.webflow.com/61d83a2ebb0ae01ab96e841a/630ced17a99fbd99b6169b52_Logo-NLW-eSports.svg" target="_blank" rel="external"></a>
     </td>
-    <td align="center">
+    <td align="center" bgcolor="#161B22">
       <a rel="external" href="https://robertojunnior.github.io/nlw-setup/" target="_blank">
       <img align="center" alt="Junior-Rocketseat" width="100px" src="https://raw.githubusercontent.com/robertojunnior/robertojunnior/01cf5b307cca1f8d17639b7d6fab4f0d3d604b60/assets/logo.svg" target="_blank" rel="external"></a>
     </td>
-    <td align="center">
+    <td align="center" bgcolor="#161B22">
       <a rel="external" href="https://robertojunnior.github.io/projeto-tela-de-login/" target="_blank">
       <img align="center" alt="tela-login" width="100px" src="https://raw.githubusercontent.com/robertojunnior/projeto-tela-de-login/cb226977e35ee9ad97de31d110a1ca58b8b632c0/assets/img/astronaut.svg" target="_blank" rel="external"></a>
     </td>
-    <td align="center">
+    <td align="center" bgcolor="#161B22">
       <a rel="external" href="https://robertojunnior.github.io/projeto-mario/" target="_blank">
       <img align="center" alt="projeto-mario" width="70px" src="https://github.com/robertojunnior/projeto-mario/blob/main/src/imagens/logo-chapeu-mario.png?raw=true" target="_blank" rel="external"></a>
     </td>
-    <td align="center">
+    <td align="center" bgcolor="#161B22">
       <a rel="external" href="https://github.com/robertojunnior/conversor-de-moedas/" target="_blank">
       <img align="center" alt="conversor-de-moedas" width="100px" src="https://github.com/robertojunnior/conversor-de-moedas/blob/main/imagens/icone-moeda.png?raw=true" target="_blank" rel="external"></a>
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" bgcolor="#161B22">
       <a rel="external" href="https://github.com/robertojunnior/jazz-school/" target="_blank">
       <img align="center" alt="jazz-school" width="100px" src="https://raw.githubusercontent.com/robertojunnior/jazz-school/a0eb2dd78a4fb055b75c59674838fdc570c21434/img/logo-white.svg" target="_blank" rel="external"></a>
     </td>
-    <td align="center">
+    <td align="center" bgcolor="#161B22">
       <a rel="external" href="https://github.com/robertojunnior/alura-portfolio/" target="_blank">
       <img align="center" alt="jazz-school" width="100px" src="https://raw.githubusercontent.com/robertojunnior/alura/9c79f47b49bdd94d87398d5e01224401a01901d6/portfolio-alura/assets/img.svg" target="_blank" rel="external"></a>
     </td>
-    <td align="center">
+    <td align="center" bgcolor="#161B22">
       <a rel="external" href="https://github.com/robertojunnior/alura-books/" target="_blank">
       <img align="center" alt="alura-plus" width="130px" src="https://github.com/robertojunnior/alura-plus/blob/master/assets/combo-green.png?raw=true" target="_blank" rel="external">
       </a>
     </td>
-    <td align="center" colspan="2">
+    <td align="center" colspan="2" bgcolor="#161B22">
       <a rel="external" href="https://github.com/robertojunnior/alura-books/" target="_blank">
       <img align="center" alt="alura-book" width="200px" src="https://github.com/robertojunnior/alura-books/blob/master/img/logo-wgite.png?raw=true" target="_blank" rel="external">
       </a>
