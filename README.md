@@ -106,9 +106,9 @@
       <a rel="external" href="https://github.com/robertojunnior/conversor-de-moedas/" target="_blank">
       <img align="center" alt="conversor-de-moedas" width="100px" src="https://github.com/robertojunnior/conversor-de-moedas/blob/main/imagens/icone-moeda.png?raw=true" target="_blank" rel="external"></a>
     </td>
-    <td align="center" rowspan="2" bgcolor="#161B22">
-      <a rel="external" href="https://github.com/robertojunnior/alura/" target="_blank">
-      <img align="center" alt="alura-midi" width="80px" src="https://github.com/robertojunnior/alura-midi/blob/master/images/bateria.png?raw=true" target="_blank" rel="external">
+    <td align="center" bgcolor="#161B22">
+      <a rel="external" href="https://github.com/robertojunnior/alura-books/" target="_blank">
+      <img align="center" alt="alura-plus" width="130px" src="https://github.com/robertojunnior/alura-plus/blob/master/assets/combo-green.png?raw=true" target="_blank" rel="external">
       </a>
     </td>
     <td align="center" bgcolor="#161B22">
@@ -121,19 +121,20 @@
     </td>
   <tr>
   <tr>
-    <td align="center" bgcolor="#161B22">
-      <a rel="external" href="https://github.com/robertojunnior/alura-books/" target="_blank">
-      <img align="center" alt="alura-plus" width="130px" src="https://github.com/robertojunnior/alura-plus/blob/master/assets/combo-green.png?raw=true" target="_blank" rel="external">
-      </a>
-    </td>
     <td align="center" colspan="3" bgcolor="#161B22">
       <a rel="external" href="https://github.com/robertojunnior/alura-books/" target="_blank">
-      <img align="center" alt="alura-book" width="200px" src="https://github.com/robertojunnior/alura-books/blob/master/img/logo-wgite.png?raw=true" target="_blank" rel="external">
+      <img align="center" alt="alura-book" width="220px" src="https://github.com/robertojunnior/alura-books/blob/master/img/logo-wgite.png?raw=true" target="_blank" rel="external">
+      </a>
+    </td>
+    <td align="center" rowspan="2" bgcolor="#161B22">
+      <a rel="external" href="https://github.com/robertojunnior/alura/" target="_blank">
+      <img align="center" alt="alura-midi" width="80px" src="https://github.com/robertojunnior/alura-midi/blob/master/images/bateria.png?raw=true" target="_blank" rel="external">
       </a>
     </td>
   </tr>
 </table>
-    <br>
+
+<br>
  
 <h2 align="center">🧑‍🚀 Current project - Alura Robotron 2000</h2>   
 
