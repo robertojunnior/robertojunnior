@@ -100,7 +100,9 @@
       <a rel="external" href="https://robertojunnior.github.io/projeto-mario/" target="_blank">
       <img align="center" alt="projeto-mario" width="70px" src="https://github.com/robertojunnior/projeto-mario/blob/main/src/imagens/logo-chapeu-mario.png?raw=true" target="_blank" rel="external"></a>
     </td>
-    <td align="center" bgcolor="#161B22">
+  </tr>
+  <tr>
+   <td align="center" bgcolor="#161B22">
       <a rel="external" href="https://github.com/robertojunnior/conversor-de-moedas/" target="_blank">
       <img align="center" alt="conversor-de-moedas" width="100px" src="https://github.com/robertojunnior/conversor-de-moedas/blob/main/imagens/icone-moeda.png?raw=true" target="_blank" rel="external"></a>
     </td>
@@ -109,8 +111,6 @@
       <img align="center" alt="alura-midi" width="80px" src="https://github.com/robertojunnior/alura-midi/blob/master/images/bateria.png?raw=true" target="_blank" rel="external">
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" bgcolor="#161B22">
       <a rel="external" href="https://github.com/robertojunnior/jazz-school/" target="_blank">
       <img align="center" alt="jazz-school" width="100px" src="https://raw.githubusercontent.com/robertojunnior/jazz-school/a0eb2dd78a4fb055b75c59674838fdc570c21434/img/logo-white.svg" target="_blank" rel="external"></a>
@@ -119,17 +119,19 @@
       <a rel="external" href="https://github.com/robertojunnior/alura-portfolio/" target="_blank">
       <img align="center" alt="jazz-school" width="100px" src="https://raw.githubusercontent.com/robertojunnior/alura/9c79f47b49bdd94d87398d5e01224401a01901d6/portfolio-alura/assets/img.svg" target="_blank" rel="external"></a>
     </td>
+  <tr>
+  <tr>
     <td align="center" bgcolor="#161B22">
       <a rel="external" href="https://github.com/robertojunnior/alura-books/" target="_blank">
       <img align="center" alt="alura-plus" width="130px" src="https://github.com/robertojunnior/alura-plus/blob/master/assets/combo-green.png?raw=true" target="_blank" rel="external">
       </a>
     </td>
-    <td align="center" colspan="2" bgcolor="#161B22">
+    <td align="center" colspan="3" bgcolor="#161B22">
       <a rel="external" href="https://github.com/robertojunnior/alura-books/" target="_blank">
       <img align="center" alt="alura-book" width="200px" src="https://github.com/robertojunnior/alura-books/blob/master/img/logo-wgite.png?raw=true" target="_blank" rel="external">
       </a>
     </td>
-  <tr>
+  </tr>
 </table>
     <br>
  
