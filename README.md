@@ -74,15 +74,15 @@
 <br>
 <h2 align="center">🚀 Latest projects and immersions:</h2>
 
-<!-- <style>
+<style>
   td {
     background-color: #161B22;
   }
-</style> -->
+</style>
 
 
 
-<table height="220px" align="center" background-color="#2f2f2f">
+<table height="220px" align="center">
   <tr>
     <td align="center" bgcolor="#161B22">
       <a rel="external" href="https://robertojunnior.github.io/nlw_e_sports/" target="_blank">
