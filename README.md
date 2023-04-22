@@ -74,11 +74,11 @@
 <br>
 <h2 align="center">🚀 Latest projects and immersions:</h2>
 
-<style>
+<!-- <style>
   td {
     background-color: #161B22;
   }
-</style>
+</style> -->
 
 
 
