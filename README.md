@@ -104,6 +104,11 @@
       <a rel="external" href="https://github.com/robertojunnior/conversor-de-moedas/" target="_blank">
       <img align="center" alt="conversor-de-moedas" width="100px" src="https://github.com/robertojunnior/conversor-de-moedas/blob/main/imagens/icone-moeda.png?raw=true" target="_blank" rel="external"></a>
     </td>
+    <td align="center" rowspan="2" bgcolor="#161B22">
+      <a rel="external" href="https://github.com/robertojunnior/alura/" target="_blank">
+      <img align="center" alt="alura-midi" width="80px" src="https://github.com/robertojunnior/alura-midi/blob/master/images/bateria.png?raw=true" target="_blank" rel="external">
+      </a>
+    </td>
   </tr>
   <tr>
     <td align="center" bgcolor="#161B22">
@@ -128,11 +133,11 @@
 </table>
     <br>
  
-<h2 align="center">🧑‍🚀 Current project under development:</h2>   
+<h2 align="center">🧑‍🚀 Current project - Alura Robotron 2000</h2>   
 
 <div align="center">
   <a rel="external" href="https://github.com/robertojunnior/alura/" target="_blank">
-  <img align="center" alt="alura-midi" width="80px" src="https://github.com/robertojunnior/alura-midi/blob/master/images/bateria.png?raw=true" target="_blank" rel="external">
+  <img align="center" alt="alura-midi" width="140px" src="https://github.com/robertojunnior/alura-robotron2000/blob/main/img/robotron.png?raw=true" target="_blank" rel="external">
   </a>
 </div>
 
