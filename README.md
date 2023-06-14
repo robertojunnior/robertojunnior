@@ -14,11 +14,9 @@
        <li><tr>⚡ Fun fact: I've given up so many times to study programming that I came back after giving up on giving up!😂 </tr></li>
   </ul>
 </div>
-<!-- <h4 align="center"> 👽 FIY: You followed me, I follow you... you unfollowed me, I also unfollowed you...<br>
-  Reciprocity my friend❤️‍🔥</h3> -->
     
-<!-- <h4 align="center"> 👽 FIY: You followed me, I follow you... you unfollowed me, I also unfollowed you...<br>
-  Reciprocity my friend❤️‍🔥</h3> -->
+<h4 align="center"> 👽 FIY: You followed me, I follow you... you unfollowed me, I also unfollowed you...<br>
+  Reciprocity my friend❤️‍🔥</h3>
 <br>
 
 <h2 align="center">Connect with me:</h3>
