@@ -15,8 +15,7 @@
   </ul>
 </div>
     
-<h4 align="center"> 👽 FYI: You followed me, I follow you... you unfollowed me, I also unfollowed you...<br>
-  Reciprocity my friend❤️‍🔥😉 </h3>
+<h4 align="center"> 👽 FYI: You followed me, I follow you... you unfollowed me, I also unfollowed you...😉 </h3>
 <br>
 
 <h2 align="center">Connect with me:</h3>
