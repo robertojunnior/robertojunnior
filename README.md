@@ -124,7 +124,7 @@
       </a>
     </td>
     <td align="center" rowspan="2" bgcolor="#161B22">
-      <a rel="external" href="https://github.com/robertojunnior/alura/" target="_blank">
+      <a rel="external" href="https://github.com/robertojunnior/alura-midi/" target="_blank">
       <img align="center" alt="alura-midi" width="80px" src="https://github.com/robertojunnior/alura-midi/blob/master/images/bateria.png?raw=true" target="_blank" rel="external">
       </a>
     </td>
