@@ -103,7 +103,7 @@
       <img align="center" alt="jazz-school" width="100px" src="https://raw.githubusercontent.com/robertojunnior/jazz-school/a0eb2dd78a4fb055b75c59674838fdc570c21434/img/logo-white.svg" target="_blank" rel="external"></a>
     </td>
     <td align="center" bgcolor="#161B22">
-      <a rel="external" href="https://github.com/robertojunnior/alura-books/" target="_blank">
+      <a rel="external" href="https://github.com/robertojunnior/alura-plus/" target="_blank">
       <img align="center" alt="alura-plus" width="130px" src="https://github.com/robertojunnior/alura-plus/blob/master/assets/combo-green.png?raw=true" target="_blank" rel="external">
       </a>
     </td>
@@ -115,7 +115,7 @@
       </a>
     </td>
     <td align="center" rowspan="2" bgcolor="#161B22">
-      <a rel="external" href="https://github.com/robertojunnior/alura/" target="_blank">
+      <a rel="external" href="https://github.com/robertojunnior/alura-midi/" target="_blank">
       <img align="center" alt="alura-midi" width="80px" src="https://github.com/robertojunnior/alura-midi/blob/master/images/bateria.png?raw=true" target="_blank" rel="external">
       </a>
     </td>
