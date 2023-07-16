@@ -62,22 +62,13 @@
 </div>
 
 <br>     
-<br>
 
-  <div align="center">
+<!-- <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=robertojunnior&theme=dracula&hide_border=false"/></a>
-  </div>
+</div> -->
 
 <br>
 <h2 align="center">🚀 Latest projects and immersions:</h2>
-
-<!-- <style>
-  td {
-    background-color: #161B22;
-  }
-</style> -->
-
-
 
 <table height="290px" align="center">
   <tr>
