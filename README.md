@@ -137,7 +137,7 @@
 
 <div align="center">
   <a rel="external" href="https://github.com/robertojunnior/alura/" target="_blank">
-  <img align="center" alt="alura-fokus" width="140px" src="https://github.com/robertojunnior/alura-fokus/blob/master/imagens/foco.png?raw=true" target="_blank" rel="external">
+  <img align="center" alt="alura-fokus" width="140px" src="https://github.com/robertojunnior/alura-fokus/blob/main/imagens/foco.png" target="_blank" rel="external">
   </a>
 </div>
 
