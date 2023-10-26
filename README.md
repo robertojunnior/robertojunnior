@@ -123,16 +123,25 @@
 
 <br>
  
-<h2 align="center">🧑‍🚀 Current project - Alura Robotron 2000</h2>   
+<h2 align="center">🧑‍🚀 Current project 01 - Alura Robotron 2000</h2>   
 
 <div align="center">
   <a rel="external" href="https://github.com/robertojunnior/alura/" target="_blank">
-  <img align="center" alt="alura-midi" width="140px" src="https://github.com/robertojunnior/alura-robotron2000/blob/main/img/robotron.png?raw=true" target="_blank" rel="external">
+  <img align="center" alt="alura-robotron" width="140px" src="https://github.com/robertojunnior/alura-robotron2000/blob/main/img/robotron.png?raw=true" target="_blank" rel="external">
   </a>
 </div>
 
 <br>
 
+<h2 align="center">🧑‍🚀 Current project 02 - Alura Fokus</h2>   
+
+<div align="center">
+  <a rel="external" href="https://github.com/robertojunnior/alura/" target="_blank">
+  <img align="center" alt="alura-fokus" width="140px" src="https://github.com/robertojunnior/alura-fokus/imagens/foco.png" target="_blank" rel="external">
+  </a>
+</div>
+
+<br>
      
 <!-- <div align="center"> 
   <a href="https://instagram.com/_onedeveloper/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
