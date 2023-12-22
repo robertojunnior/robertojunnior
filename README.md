@@ -80,7 +80,7 @@
       <img align="center" alt="Junior-Rocketseat" width="100px" src="https://raw.githubusercontent.com/robertojunnior/robertojunnior/01cf5b307cca1f8d17639b7d6fab4f0d3d604b60/assets/logo.svg" target="_blank" rel="external"></a>
     </td>
     <td align="center" bgcolor="#161B22">
-      <a rel="external" href="https://robertojunnior.github.io/projeto-tela-de-login/" target="_blank">
+      <a rel="external" href="https://github.com/robertojunnior/projeto-tela-de-login/" target="_blank">
       <img align="center" alt="tela-login" width="100px" src="https://raw.githubusercontent.com/robertojunnior/projeto-tela-de-login/cb226977e35ee9ad97de31d110a1ca58b8b632c0/assets/img/astronaut.svg" target="_blank" rel="external"></a>
     </td>
     <td align="center" bgcolor="#161B22">
