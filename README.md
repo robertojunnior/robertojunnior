@@ -70,7 +70,7 @@
 
 <br>
 <h2 align="center">🚀 Latest projects and immersions:</h2>
-
+<!-- 1ª linha da tabela -->
 <table height="290px" align="center">
   <tr>
     <td align="center" bgcolor="#161B22">
@@ -90,6 +90,7 @@
       <img align="center" alt="projeto-mario" width="70px" src="https://github.com/robertojunnior/projeto-mario/blob/main/src/imagens/logo-chapeu-mario.png?raw=true" target="_blank" rel="external"></a>
     </td>
   </tr>
+  <!-- 2ª linha da tabela -->
   <tr>
    <td align="center" bgcolor="#161B22">
       <a rel="external" href="https://github.com/robertojunnior/conversor-de-moedas/" target="_blank">
@@ -109,6 +110,7 @@
       </a>
     </td>
   <tr>
+  <!-- 3ª linha da tabela -->
   <tr>
     <td align="center" colspan="3" bgcolor="#161B22">
       <a rel="external" href="https://github.com/robertojunnior/alura-books/" target="_blank">
@@ -125,6 +127,8 @@
 
 <br>
  
+<!-- Projetos atuais em desenvolvimento -->
+
 <h2 align="center">🧑‍🚀 Current project 01 - Alura Robotron 2000</h2>   
 
 <div align="center">
@@ -142,6 +146,32 @@
   <img align="center" alt="alura-fokus" width="140px" src="https://github.com/robertojunnior/alura-fokus/blob/main/imagens/foco.png?raw=true" target="_blank" rel="external">
   </a>
 </div>
+
+<!-- Projetos desenvolvidos em imersões e aulas -->
+### :memo: Projetos 
+
+<table class="projetos__readme">
+  <tr>
+    <td align="center" bgcolor="#161B22" width="50%">
+      <a rel="external" href="https://robertojunnior.github.io/nlw_e_sports/" target="_blank">
+      <img align="center" alt="Junior-Rocketseat" width="100%" src="https://github.com/robertojunnior/nlw_e_sports/raw/main/assets/mockup-entrega.png" target="_blank" rel="external"></a>
+    </td>
+    <td bgcolor="#161B22">
+      <br>
+      <a align="center" rel="external" href="https://robertojunnior.github.io/nlw-setup/" target="_blank">
+      <img align="center" alt="Junior-Rocketseat" width="60px" src="https://global-uploads.webflow.com/61d83a2ebb0ae01ab96e841a/630ced17a99fbd99b6169b52_Logo-NLW-eSports.svg" target="_blank" rel="external"></a>
+      <p class="titulos">Projeto NLW Next Week e-Sports - Rocketseat</p>
+      <p>🚀 Tecnologias</p>
+      <p>Este projeto foi desenvolvido com as seguintes tecnologias:</p>
+      <ul>
+        <li> HTML
+        <li> CSS
+        <li> GitHub
+      </ul>
+    </td>
+  </tr>
+</table>
+  
 
 <br>
      
