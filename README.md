@@ -61,10 +61,12 @@
   <img align="center" alt="Junior-Python" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
  
+ <br>
+ <br>
 
-<!-- <div align="center">
+<div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=robertojunnior&theme=dracula&hide_border=false"/></a>
-</div> -->
+</div>
 
 <br>
 <h2 align="center">🚀 Latest projects and immersions:</h2>
@@ -137,7 +139,7 @@
 
 <div align="center">
   <a rel="external" href="https://github.com/robertojunnior/alura/" target="_blank">
-  <img align="center" alt="alura-fokus" width="140px" src="https://github.com/robertojunnior/alura-fokus/blob/main/imagens/foco.png" target="_blank" rel="external">
+  <img align="center" alt="alura-fokus" width="140px" src="https://github.com/robertojunnior/alura-fokus/blob/main/imagens/foco.png?raw=true" target="_blank" rel="external">
   </a>
 </div>
 
