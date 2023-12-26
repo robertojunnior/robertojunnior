@@ -21,7 +21,7 @@
 
 <!-- Contatos -->
 <section id="contatos">
-  <h2 align="center">Connect with me:</h3>
+  <h2 align="center">CONNECT WITH ME</h3>
   <div align="center">
     <a href="https://behance.com/robertojunnior" target="_blank" rel="external">
     <img align="center" alt="Junior-Be" width="50px" src="https://cdn-icons-png.flaticon.com/512/3670/3670094.png">
@@ -46,7 +46,7 @@
 
 <!-- Linguagens e ferramentas -->
 <section id="linguagens_ferramentas">
-  <h2 align="center">Languages and Tools:</h3>
+  <h2 align="center">LANGUAGES AND TOOLS</h3>
   <div align="center">
     <a href="https://github.com/robertojunnior/alura" target="_blank" rel="external">
     <img align="center" alt="Junior-HTML" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -68,7 +68,7 @@
 
 <!-- Projetos desenvolvidos em imersões e aulas --> 
 <section id="projetos__cascata">
-  <h2>Latest projects and immersions:</h2>
+  <h2 align="center">LATEST PROJECTS AND IMMERSIONS</h2>
   <!-- NLW e-Sports -->
   <table id="nlw__eSports">
     <tr>
