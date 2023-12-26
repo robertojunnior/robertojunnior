@@ -113,12 +113,12 @@
   <table id="nlw__eSports">
     <tr>
       <td align="center" bgcolor="#161B22" width="50%">
-        <a rel="external" href="https://robertojunnior.github.io/projeto_tela_de_login/" target="_blank">
+        <a rel="external" href="https://github.com/robertojunnior/projeto-tela-de-login/" target="_blank">
         <img align="center" alt="Junior-Rocketseat" width="100%" src="https://github.com/robertojunnior/projeto-tela-de-login/blob/master/assets/img/mockup-github-telaLogin.png?raw=true" target="_blank" rel="external"></a>
       </td>
       <td bgcolor="#282A36">
         <br>
-        <a align="center" rel="external" href="https://robertojunnior.github.io/projeto_tela_de_login/" target="_blank">
+        <a align="center" rel="external" href="https://github.com/robertojunnior/projeto-tela-de-login/" target="_blank">
         <img align="center" alt="Junior-Rocketseat" width="60px" src="https://raw.githubusercontent.com/robertojunnior/projeto-tela-de-login/cb226977e35ee9ad97de31d110a1ca58b8b632c0/assets/img/astronaut.svg" target="_blank" rel="external"></a>
         <br>
         <h5>Projeto Tela de login animada</h5>
