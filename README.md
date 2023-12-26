@@ -85,7 +85,7 @@
       <img align="center" alt="Junior-Rocketseat" width="60px" src="https://global-uploads.webflow.com/61d83a2ebb0ae01ab96e841a/630ced17a99fbd99b6169b52_Logo-NLW-eSports.svg" target="_blank" rel="external"></a>
       <br>
       <p class="titulos">Projeto NLW Next Week e-Sports - Rocketseat</p>
-      <li>Criando página de perfil com cards para armazenar lista de games, canais e contatos</li>
+      <li>Criando página de perfil com cards para armazenar lista de games, canais e contatos.</li>
       <br>
       <li>Tecnologias utilizadas neste projeto:
       <p>🚀Html, Css e JavaScript.</p>
