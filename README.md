@@ -89,7 +89,7 @@
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
         </p>
         <br>
-        </td>
+      </td>
     </tr>
   </table>
   <!-- 2º NLW - Habits -->
@@ -136,7 +136,7 @@
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
         </p>
         <br>
-        </td>
+      </td>
     </tr>
   </table>
   <!-- 4º Projeto Mário o Filme -->
@@ -184,7 +184,7 @@
         <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
         </p>
         <br>
-        </td>
+      </td>
     </tr>
   </table>
   <!-- 6º Projeto Mário o Filme -->
@@ -211,6 +211,30 @@
       </td>
     </tr>
   </table>
+  <!-- 7º Conversor de moedas-->
+  <table id="conversor_deMoedas">
+    <tr>
+      <td align="center" bgcolor="#161B22" width="50%">
+        <a rel="external" href="https://github.com/robertojunnior/jazz-school/" target="_blank">
+        <img align="center" alt="junior-conversor" width="100%" src="https://github.com/robertojunnior/jazz-school/blob/master/img/mockup-entrega.png?raw=true" target="_blank" rel="external"></a>
+      </td>
+      <td bgcolor="#282A36">
+        <br>
+        <a align="center" rel="external" href="https://github.com/robertojunnior/conversor-de-moedas/" target="_blank">
+        <img align="center" alt="Junior-Rocketseat" width="60px" src="https://raw.githubusercontent.com/robertojunnior/jazz-school/47b300f354c30e3b39a6c0204656e9d65fcfa49a/img/hero-img.svg" target="_blank" rel="external"></a>
+        <br>
+        <h5>Projeto - Jazz School</h5>
+        <p>Neste projeto criamos uma página responsiva com menu, seções, cards, botões e inputs para envio de news letters. Dentro dos assuntos do vídeo, o instrutor Isaac fala também de temas como Mobile-First, Responsividade, Html semântico, Flexbox e Grid.  </p>
+        <h5>Tecnologias utilizadas neste projeto:</h5>
+        <p id="badge__linguagens">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+        <!-- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> -->
+        </p>
+        <br>
+      </td>
+    </tr>
+  </table>
 
 </section>
 
@@ -218,10 +242,6 @@
 <!-- <section id="tabela__projetos">
   <h2 align="center">Latest projects and immersions:</h2>
   <table height="290px" align="center">
-      <td align="center" bgcolor="#161B22">
-        <a rel="external" href="https://github.com/robertojunnior/alura-portfolio/" target="_blank">
-        <img align="center" alt="jazz-school" width="100px" src="https://raw.githubusercontent.com/robertojunnior/alura/9c79f47b49bdd94d87398d5e01224401a01901d6/portfolio-alura/assets/img.svg" rel="external"></a>
-      </td>
       <td align="center" bgcolor="#161B22">
         <a rel="external" href="https://github.com/robertojunnior/jazz-school/" target="_blank">
         <img align="center" alt="jazz-school" width="100px" src="https://raw.githubusercontent.com/robertojunnior/jazz-school/a0eb2dd78a4fb055b75c59674838fdc570c21434/img/logo-white.svg" rel="external"></a>
