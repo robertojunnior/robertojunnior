@@ -116,42 +116,42 @@
 <section id="tabela__projetos">
   <h2 align="center">Latest projects and immersions:</h2>
   <table height="290px" align="center">
-  <!-- 1ª linha da tabela -->
+    <!-- 1ª linha da tabela -->
     <tr>
       <td align="center" bgcolor="#161B22">
         <a rel="external" href="https://robertojunnior.github.io/nlw_e_sports/" target="_blank">
-        <img align="center" alt="Junior-Rocketseat" width="100px" src="https://global-uploads.webflow.com/61d83a2ebb0ae01ab96e841a/630ced17a99fbd99b6169b52_Logo-NLW-eSports.svg" target="_blank" rel="external"></a>
+        <img align="center" alt="Junior-Rocketseat" width="100px" src="https://global-uploads.webflow.com/61d83a2ebb0ae01ab96e841a/630ced17a99fbd99b6169b52_Logo-NLW-eSports.svg" rel="external"></a>
       </td>
       <td align="center" bgcolor="#161B22">
         <a rel="external" href="https://robertojunnior.github.io/nlw-setup/" target="_blank">
-        <img align="center" alt="Junior-Rocketseat" width="100px" src="https://raw.githubusercontent.com/robertojunnior/robertojunnior/01cf5b307cca1f8d17639b7d6fab4f0d3d604b60/assets/logo.svg" target="_blank" rel="external"></a>
+        <img align="center" alt="Junior-Rocketseat" width="100px" src="https://raw.githubusercontent.com/robertojunnior/robertojunnior/01cf5b307cca1f8d17639b7d6fab4f0d3d604b60/assets/logo.svg" rel="external"></a>
       </td>
       <td align="center" bgcolor="#161B22">
         <a rel="external" href="https://github.com/robertojunnior/projeto-tela-de-login/" target="_blank">
-        <img align="center" alt="tela-login" width="100px" src="https://raw.githubusercontent.com/robertojunnior/projeto-tela-de-login/cb226977e35ee9ad97de31d110a1ca58b8b632c0/assets/img/astronaut.svg" target="_blank" rel="external"></a>
+        <img align="center" alt="tela-login" width="100px" src="https://raw.githubusercontent.com/robertojunnior/projeto-tela-de-login/cb226977e35ee9ad97de31d110a1ca58b8b632c0/assets/img/astronaut.svg" rel="external"></a>
       </td>
       <td align="center" bgcolor="#161B22">
         <a rel="external" href="https://robertojunnior.github.io/projeto-mario/" target="_blank">
-        <img align="center" alt="projeto-mario" width="70px" src="https://github.com/robertojunnior/projeto-mario/blob/main/src/imagens/logo-chapeu-mario.png?raw=true" target="_blank" rel="external"></a>
+        <img align="center" alt="projeto-mario" width="70px" src="https://github.com/robertojunnior/projeto-mario/blob/main/src/imagens/logo-chapeu-mario.png?raw=true" rel="external"></a>
       </td>
     </tr>
     <!-- 2ª linha da tabela -->
     <tr>
-     <td align="center" bgcolor="#161B22">
+      <td align="center" bgcolor="#161B22">
         <a rel="external" href="https://github.com/robertojunnior/conversor-de-moedas/" target="_blank">
-        <img align="center" alt="conversor-de-moedas" width="80px" src="https://github.com/robertojunnior/conversor-de-moedas/blob/main/imagens/icone-moeda.png?raw=true" target="_blank" rel="external"></a>
+        <img align="center" alt="conversor-de-moedas" width="80px" src="https://github.com/robertojunnior/conversor-de-moedas/blob/main/imagens/icone-moeda.png?raw=true" rel="external"></a>
       </td>
       <td align="center" bgcolor="#161B22">
         <a rel="external" href="https://github.com/robertojunnior/alura-portfolio/" target="_blank">
-        <img align="center" alt="jazz-school" width="100px" src="https://raw.githubusercontent.com/robertojunnior/alura/9c79f47b49bdd94d87398d5e01224401a01901d6/portfolio-alura/assets/img.svg" target="_blank" rel="external"></a>
+        <img align="center" alt="jazz-school" width="100px" src="https://raw.githubusercontent.com/robertojunnior/alura/9c79f47b49bdd94d87398d5e01224401a01901d6/portfolio-alura/assets/img.svg" rel="external"></a>
       </td>
       <td align="center" bgcolor="#161B22">
         <a rel="external" href="https://github.com/robertojunnior/jazz-school/" target="_blank">
-        <img align="center" alt="jazz-school" width="100px" src="https://raw.githubusercontent.com/robertojunnior/jazz-school/a0eb2dd78a4fb055b75c59674838fdc570c21434/img/logo-white.svg" target="_blank" rel="external"></a>
+        <img align="center" alt="jazz-school" width="100px" src="https://raw.githubusercontent.com/robertojunnior/jazz-school/a0eb2dd78a4fb055b75c59674838fdc570c21434/img/logo-white.svg" rel="external"></a>
       </td>
       <td align="center" bgcolor="#161B22">
         <a rel="external" href="https://github.com/robertojunnior/alura-plus/" target="_blank">
-        <img align="center" alt="alura-plus" width="130px" src="https://github.com/robertojunnior/alura-plus/blob/master/assets/combo-green.png?raw=true" target="_blank" rel="external">
+        <img align="center" alt="alura-plus" width="130px" src="https://github.com/robertojunnior/alura-plus/blob/master/assets/combo-green.png?raw=true" rel="external">
         </a>
       </td>
     <tr>
@@ -159,12 +159,12 @@
     <tr>
       <td align="center" colspan="3" bgcolor="#161B22">
         <a rel="external" href="https://github.com/robertojunnior/alura-books/" target="_blank">
-        <img align="center" alt="alura-book" width="220px" src="https://github.com/robertojunnior/alura-books/blob/master/img/logo-wgite.png?raw=true" target="_blank" rel="external">
+        <img align="center" alt="alura-book" width="220px" src="https://github.com/robertojunnior/alura-books/blob/master/img/logo-wgite.png?raw=true" rel="external">
         </a>
       </td>
       <td align="center" rowspan="2" bgcolor="#161B22">
         <a rel="external" href="https://github.com/robertojunnior/alura-midi/" target="_blank">
-        <img align="center" alt="alura-midi" width="80px" src="https://github.com/robertojunnior/alura-midi/blob/master/images/bateria.png?raw=true" target="_blank" rel="external">
+        <img align="center" alt="alura-midi" width="80px" src="https://github.com/robertojunnior/alura-midi/blob/master/images/bateria.png?raw=true" rel="external">
         </a>
       </td>
     </tr>
@@ -177,14 +177,14 @@
   <h2 align="center">🧑‍🚀 Current project 01 - Alura Robotron 2000</h2>
   <div align="center">
     <a rel="external" href="https://github.com/robertojunnior/alura/" target="_blank">
-    <img align="center" alt="alura-robotron" width="140px" src="https://github.com/robertojunnior/alura-robotron2000/blob/main/img/robotron.png?raw=true" target="_blank" rel="external">
+    <img align="center" alt="alura-robotron" width="140px" src="https://github.com/robertojunnior/alura-robotron2000/blob/main/img/robotron.png?raw=true" rel="external">
     </a>
   </div>
   <br>
   <h2 align="center">🧑‍🚀 Current project 02 - Alura Fokus</h2>
   <div align="center">
     <a rel="external" href="https://github.com/robertojunnior/alura/" target="_blank">
-    <img align="center" alt="alura-fokus" width="140px" src="https://github.com/robertojunnior/alura-fokus/blob/main/imagens/foco.png?raw=true" target="_blank" rel="external">
+    <img align="center" alt="alura-fokus" width="140px" src="https://github.com/robertojunnior/alura-fokus/blob/main/imagens/foco.png?raw=true" rel="external">
     </a>
   </div>
 </section>
