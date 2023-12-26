@@ -73,12 +73,12 @@
   <table id="nlw__eSports">
     <tr>
       <td align="center" bgcolor="#161B22" width="50%">
-        <a rel="external" href="https://robertojunnior.github.io/nlw_e_sports/" target="_blank">
+        <a rel="external" href="https://github.com/robertojunnior/nlw_e_sports" target="_blank">
         <img align="center" alt="Junior-Rocketseat" width="100%" src="https://github.com/robertojunnior/nlw_e_sports/raw/main/assets/mockup-entrega.png" target="_blank" rel="external"></a>
       </td>
       <td bgcolor="#282A36">
         <br>
-        <a align="center" rel="external" href="https://robertojunnior.github.io/nlw-setup/" target="_blank">
+        <a align="center" rel="external" href="https://github.com/robertojunnior/nlw_e_sports" target="_blank">
         <img align="center" alt="Junior-Rocketseat" width="60px" src="https://global-uploads.webflow.com/61d83a2ebb0ae01ab96e841a/630ced17a99fbd99b6169b52_Logo-NLW-eSports.svg" target="_blank" rel="external"></a>
         <br>
         <h5>Projeto NLW Next Week e-Sports - Rocketseat</h5>
@@ -94,7 +94,7 @@
     <tr>
       <td  bgcolor="#282A36">
         <br>
-        <a rel="external" href="https://robertojunnior.github.io/nlw-setup/" target="_blank">
+        <a rel="external" href="https://github.com/robertojunnior/nlw-setup/" target="_blank">
         <img align="center" alt="Junior-Rocketseat" width="60px" src="https://raw.githubusercontent.com/robertojunnior/robertojunnior/01cf5b307cca1f8d17639b7d6fab4f0d3d604b60/assets/logo.svg" target="_blank" rel="external"></a>
         <br>
         <h5>Projeto NLW SETUP - Rocketseat</h5>
@@ -104,7 +104,7 @@
         <br>
       </td>
       <td align="center" bgcolor="#161B22" width="50%">
-        <a rel="external" href="https://robertojunnior.github.io/nlw-setup/" target="_blank">
+        <a rel="external" href="https://github.com/robertojunnior/nlw-setup" target="_blank">
         <img align="center" alt="Junior-Rocketseat" width="100%" src="https://github.com/robertojunnior/nlw-setup/blob/master/assets/mockup-entrega.png?raw=true" target="_blank" rel="external"></a>
       </td>
     </tr>
