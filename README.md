@@ -85,7 +85,8 @@
       <img align="center" alt="Junior-Rocketseat" width="60px" src="https://global-uploads.webflow.com/61d83a2ebb0ae01ab96e841a/630ced17a99fbd99b6169b52_Logo-NLW-eSports.svg" target="_blank" rel="external"></a>
       <br>
       <p class="titulos">Projeto NLW Next Week e-Sports - Rocketseat</p>
-      Criando página de perfil com cards para armazenar lista de games, canais e contatos
+      <li>Criando página de perfil com cards para armazenar lista de games, canais e contatos</li>
+      <br>
       <li>Tecnologias utilizadas neste projeto:
       <p>🚀Html, Css e JavaScript.</p>
       <br>
@@ -101,7 +102,8 @@
       <img align="center" alt="Junior-Rocketseat" width="60px" src="https://raw.githubusercontent.com/robertojunnior/robertojunnior/01cf5b307cca1f8d17639b7d6fab4f0d3d604b60/assets/logo.svg" target="_blank" rel="external"></a>
       <br>
       <p class="titulos">Projeto NLW SETUP - Rocketseat</p>
-      <li>Adicione uma nova data e marque suas tarefas, salvando as informações no LocalStorage do seu navegador!
+      <li>Adicione uma nova data e marque suas tarefas, salvando as informações no LocalStorage do seu navegador.</li>
+      <br>
       <li>Tecnologias utilizadas neste projeto:
       <p>🚀Html, Css e JavaScript.</p>
       <br>
