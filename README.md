@@ -159,7 +159,7 @@
       </td>
       <td align="center" bgcolor="#161B22" width="50%">
         <a rel="external" href="https://github.com/robertojunnior/projeto-mario/" target="_blank">
-        <img align="center" alt="junior-telaDeLogin" width="100%" src="https://github.com/robertojunnior/projeto-mario/blob/main/src/imagens/mockup-entrega-github.png?raw=true" target="_blank" rel="external"></a>
+        <img align="center" alt="junior-super-mario" width="100%" src="https://github.com/robertojunnior/projeto-mario/blob/main/src/imagens/mockup-entrega-github.png?raw=true" target="_blank" rel="external"></a>
       </td>
     </tr>
   </table>
@@ -173,7 +173,7 @@
       <td bgcolor="#282A36">
         <br>
         <a align="center" rel="external" href="https://github.com/robertojunnior/conversor-de-moedas/" target="_blank">
-        <img align="center" alt="Junior-Rocketseat" width="60px" src="https://github.com/robertojunnior/conversor-de-moedas/blob/main/imagens/money-bag.png?raw=true" target="_blank" rel="external"></a>
+        <img align="center" alt="Junior-conversor-de-moedas" width="60px" src="https://github.com/robertojunnior/conversor-de-moedas/blob/main/imagens/money-bag.png?raw=true" target="_blank" rel="external"></a>
         <br>
         <h5>Projeto - Conversor de moedas</h5>
         <p>Neste projeto criamos uma página simples com Card e input de valor para ser convertido fazendo uso da API da EXCHANGE RATE, a aplicação do javaScript ficou por conta do @fernandomontanari.</p>
@@ -187,13 +187,13 @@
       </td>
     </tr>
   </table>
-  <!-- 6º Projeto Mário o Filme -->
-  <table id="mario__Filme">
+  <!-- 6º Projeto Portfolio Alura -->
+  <table id="alura__portfolio">
     <tr>
       <td  bgcolor="#282A36">
         <br>
         <a rel="external" href="https://github.com/robertojunnior/alura-portfolio/" target="_blank">
-        <img align="center" alt="junior-marioBros" width="60px" src="https://raw.githubusercontent.com/robertojunnior/alura-portfolio/c85ba2f7276350edc2009ee70b24687e4d2a75fc/assets/img.svg" target="_blank" rel="external"></a>
+        <img align="center" alt="junior-portfolio-alura" width="60px" src="https://raw.githubusercontent.com/robertojunnior/alura-portfolio/c85ba2f7276350edc2009ee70b24687e4d2a75fc/assets/img.svg" target="_blank" rel="external"></a>
         <br>
         <h5>Projeto - Portfólio Alura </h5>
         <p>Neste projeto criamos uma página simples de portfólio, fontes estilizadas com cores gradientes e botões para direcionamento de links e contatos. Também foi criada uma segunda página "Sobre Mim" onde reutilizamos a mesma folha de estilo.</p>
@@ -207,21 +207,21 @@
       </td>
       <td align="center" bgcolor="#161B22" width="50%">
         <a rel="external" href="https://github.com/robertojunnior/alura-portfolio/" target="_blank">
-        <img align="center" alt="junior-telaDeLogin" width="100%" src="https://github.com/robertojunnior/alura-portfolio/blob/master/assets/mockup-entrega-github-personalizado.png?raw=true" target="_blank" rel="external"></a>
+        <img align="center" alt="junior-portfolio-alura" width="100%" src="https://github.com/robertojunnior/alura-portfolio/blob/master/assets/mockup-entrega-github-personalizado.png?raw=true" target="_blank" rel="external"></a>
       </td>
     </tr>
   </table>
-  <!-- 7º Conversor de moedas-->
-  <table id="conversor_deMoedas">
+  <!-- 7º Projeto School Jazz-->
+  <table id="school__jazz">
     <tr>
       <td align="center" bgcolor="#161B22" width="50%">
         <a rel="external" href="https://github.com/robertojunnior/jazz-school/" target="_blank">
-        <img align="center" alt="junior-conversor" width="100%" src="https://github.com/robertojunnior/jazz-school/blob/master/img/mockup-entrega.png?raw=true" target="_blank" rel="external"></a>
+        <img align="center" alt="junior-jazz-school" width="100%" src="https://github.com/robertojunnior/jazz-school/blob/master/img/mockup-entrega.png?raw=true" target="_blank" rel="external"></a>
       </td>
       <td bgcolor="#282A36">
         <br>
         <a align="center" rel="external" href="https://github.com/robertojunnior/conversor-de-moedas/" target="_blank">
-        <img align="center" alt="Junior-Rocketseat" width="60px" src="https://raw.githubusercontent.com/robertojunnior/jazz-school/47b300f354c30e3b39a6c0204656e9d65fcfa49a/img/hero-img.svg" target="_blank" rel="external"></a>
+        <img align="center" alt="Junior-jazz-school" width="60px" src="https://raw.githubusercontent.com/robertojunnior/jazz-school/47b300f354c30e3b39a6c0204656e9d65fcfa49a/img/hero-img.svg" target="_blank" rel="external"></a>
         <br>
         <h5>Projeto - Jazz School</h5>
         <p>Neste projeto criamos uma página responsiva com menu, seções, cards, botões e inputs para envio de news letters. Dentro dos assuntos do vídeo, o instrutor Isaac fala também de temas como Mobile-First, Responsividade, Html semântico, Flexbox e Grid.  </p>
@@ -235,23 +235,60 @@
       </td>
     </tr>
   </table>
-
+  <!-- 8º Projeto Alura Plus+ -->
+  <table id="alura__plus">
+    <tr>
+      <td  bgcolor="#282A36">
+        <br>
+        <a rel="external" href="https://github.com/robertojunnior/alura-plus/" target="_blank">
+        <img align="center" alt="projeto-alura-plus" width="60px" src="https://github.com/robertojunnior/alura-plus/blob/master/assets/Logo.png?raw=true" rel="external"></a>
+        <br>
+        <h5>Projeto - Alura Plus+ </h5>
+        <p>Neste projeto criamos uma página simples, fazendo uso da metodologia BEM, display grid, fontes e botões estilizados com cores gradientes para direcionamento de links e contatos.</p>
+        <h5>Tecnologias utilizadas neste projeto:</h5>
+        <p id="badge__linguagens">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+        <!-- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> -->
+        </p>
+        <br>
+      </td>
+      <td align="center" bgcolor="#161B22" width="50%">
+        <a rel="external" href="https://github.com/robertojunnior/alura-plus/" target="_blank">
+        <img align="center" alt="projeto-alura-plus" width="100%" src="https://github.com/robertojunnior/alura-plus/blob/master/assets/mockup-entrega.png?raw=true" rel="external"></a>
+      </td>
+    </tr>
+  </table>
+  <!-- 9º Projeto Alura Books-->
+  <table id="alura__books">
+    <tr>
+      <td align="center" bgcolor="#161B22" width="50%">
+        <a rel="external" href="https://github.com/robertojunnior/alura-books/" target="_blank">
+        <img align="center" alt="projeto-alura-books" width="100%" src="https://github.com/robertojunnior/alura-books/blob/master/img/mockup_github.png?raw=true" rel="external"></a>
+      </td>
+      <td bgcolor="#282A36">
+        <br>
+        <a align="center" rel="external" href="https://github.com/robertojunnior/alura-books/" target="_blank">
+        <img align="center" alt="projeto-alura-books" width="30px" src="https://raw.githubusercontent.com/robertojunnior/alura-books/cfb13c9e849645415109eb08466a07b4282eb107/img/Logo.svg" rel="external"></a>
+        <br>
+        <h5>Projeto - Alura Books</h5>
+        <p>Neste projeto criamos uma página responsiva com menu, seções, cards, carrossel com uso de SWIPER JS, botões e rodapé personalizado. Dentro dos assuntos do vídeo, o instrutora Mônica fala também de temas como Mobile-First, Responsividade, Html semântico, Flexbox e Grid.</p>
+        <h5>Tecnologias utilizadas neste projeto:</h5>
+        <p id="badge__linguagens">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+        </p>
+        <br>
+      </td>
+    </tr>
+  </table>
 </section>
 
 <!-- Tabela de projetos -->
 <!-- <section id="tabela__projetos">
   <h2 align="center">Latest projects and immersions:</h2>
   <table height="290px" align="center">
-      <td align="center" bgcolor="#161B22">
-        <a rel="external" href="https://github.com/robertojunnior/jazz-school/" target="_blank">
-        <img align="center" alt="jazz-school" width="100px" src="https://raw.githubusercontent.com/robertojunnior/jazz-school/a0eb2dd78a4fb055b75c59674838fdc570c21434/img/logo-white.svg" rel="external"></a>
-      </td>
-      <td align="center" bgcolor="#161B22">
-        <a rel="external" href="https://github.com/robertojunnior/alura-plus/" target="_blank">
-        <img align="center" alt="alura-plus" width="130px" src="https://github.com/robertojunnior/alura-plus/blob/master/assets/combo-green.png?raw=true" rel="external">
-        </a>
-      </td>
-    <tr>
     <tr>
       <td align="center" colspan="3" bgcolor="#161B22">
         <a rel="external" href="https://github.com/robertojunnior/alura-books/" target="_blank">
