@@ -150,6 +150,7 @@
 <!-- Projetos desenvolvidos em imersões e aulas -->
 ### :memo: Projetos 
 
+<!-- NLW e-Sports -->
 <table class="projetos__readme">
   <tr>
     <td align="center" bgcolor="#161B22" width="50%">
@@ -160,8 +161,8 @@
       <br>
       <a align="center" rel="external" href="https://robertojunnior.github.io/nlw-setup/" target="_blank">
       <img align="center" alt="Junior-Rocketseat" width="60px" src="https://global-uploads.webflow.com/61d83a2ebb0ae01ab96e841a/630ced17a99fbd99b6169b52_Logo-NLW-eSports.svg" target="_blank" rel="external"></a>
+      <br>
       <p class="titulos">Projeto NLW Next Week e-Sports - Rocketseat</p>
-      <p>🚀 Tecnologias</p>
       <p>Este projeto foi desenvolvido com as seguintes tecnologias:</p>
       <ul>
         <li> HTML
@@ -171,16 +172,23 @@
     </td>
   </tr>
 </table>
-  
-
-<br>
-     
-<!-- <div align="center"> 
-  <a href="https://instagram.com/_onedeveloper/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/juniorsnoop" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://discord.com/channels/@roberjunnior#8903" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:roberjunior.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/roberto-r-junior" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div> -->
-
+<!-- NLW - Habits -->
+<table class="projetos__readme">
+  <tr>
+    <td bgcolor="#161B22">
+      <br>
+      <a align="center" rel="external" href="https://robertojunnior.github.io/nlw-setup/" target="_blank">
+      <img align="center" alt="Junior-Rocketseat" width="60px" src="https://raw.githubusercontent.com/robertojunnior/robertojunnior/01cf5b307cca1f8d17639b7d6fab4f0d3d604b60/assets/logo.svg" target="_blank" rel="external"></a>
+      <br>
+      <p class="titulos">Projeto NLW SETUP - Rocketseat</p>
+      <li>Adicione uma nova data e marque suas tarefas, salvando as informações no LocalStorage do seu navegador!
+      <li>Tecnologias utilizadas neste projeto:
+      <p>🚀Html, Css e JavaScript.</p>
+      <br>
+    </td>
+    <td align="center" bgcolor="#161B22" width="50%">
+      <a rel="external" href="https://robertojunnior.github.io/nlw_e_sports/" target="_blank">
+      <img align="center" alt="Junior-Rocketseat" width="100%" src="https://github.com/robertojunnior/nlw-setup/blob/master/assets/mockup-entrega.png?raw=true" target="_blank" rel="external"></a>
+    </td>
+  </tr>
+</table>
