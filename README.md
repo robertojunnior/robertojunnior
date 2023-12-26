@@ -173,7 +173,7 @@
       <td bgcolor="#282A36">
         <br>
         <a align="center" rel="external" href="https://github.com/robertojunnior/conversor-de-moedas/" target="_blank">
-        <img align="center" alt="Junior-conversor-de-moedas" width="60px" src="https://github.com/robertojunnior/conversor-de-moedas/blob/main/imagens/money-bag.png?raw=true" target="_blank" rel="external"></a>
+        <img align="center" alt="Junior-conversor-de-moedas" width="40px" src="https://github.com/robertojunnior/conversor-de-moedas/blob/main/imagens/money-bag.png?raw=true" target="_blank" rel="external"></a>
         <br>
         <h5>Projeto - Conversor de moedas</h5>
         <p>Neste projeto criamos uma página simples com Card e input de valor para ser convertido fazendo uso da API da EXCHANGE RATE, a aplicação do javaScript ficou por conta do @fernandomontanari.</p>
