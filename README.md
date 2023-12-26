@@ -17,8 +17,7 @@
   </div>
 </section>
     
-<!-- <h4 align="center"> 👽 FYI: You followed me, I follow you... you unfollowed me, I also unfollowed you...😉 </h3>
-<br> -->
+<!-- <h5 align="center"> 😉 FYI: You followed me, I follow you... you unfollowed me, I also unfollowed you... </h5> -->
 
 <!-- Contatos -->
 <section id="contatos">
@@ -77,13 +76,13 @@
         <a rel="external" href="https://robertojunnior.github.io/nlw_e_sports/" target="_blank">
         <img align="center" alt="Junior-Rocketseat" width="100%" src="https://github.com/robertojunnior/nlw_e_sports/raw/main/assets/mockup-entrega.png" target="_blank" rel="external"></a>
       </td>
-      <td bgcolor="#161B22">
+      <td bgcolor="#282A36">
         <br>
         <a align="center" rel="external" href="https://robertojunnior.github.io/nlw-setup/" target="_blank">
         <img align="center" alt="Junior-Rocketseat" width="60px" src="https://global-uploads.webflow.com/61d83a2ebb0ae01ab96e841a/630ced17a99fbd99b6169b52_Logo-NLW-eSports.svg" target="_blank" rel="external"></a>
         <br>
         <h5>Projeto NLW Next Week e-Sports - Rocketseat</h5>
-        <p>Neste projeto temos uma página de perfil responsiva com cards para armazenar lista de games favoritos, canais e contatos.</p>
+        <p>Neste projeto criamos uma página de perfil responsiva com cards para armazenar lista de games favoritos, canais e contatos.</p>
         <h5>Tecnologias utilizadas neste projeto:</h5>
         <p>Html | Css.</p>
         <br>
@@ -93,7 +92,7 @@
   <!-- NLW - Habits -->
   <table id="nlw__habits">
     <tr>
-      <td  bgcolor="#161B22">
+      <td  bgcolor="#282A36">
         <br>
         <a rel="external" href="https://robertojunnior.github.io/nlw-setup/" target="_blank">
         <img align="center" alt="Junior-Rocketseat" width="60px" src="https://raw.githubusercontent.com/robertojunnior/robertojunnior/01cf5b307cca1f8d17639b7d6fab4f0d3d604b60/assets/logo.svg" target="_blank" rel="external"></a>
