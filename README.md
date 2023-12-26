@@ -20,7 +20,6 @@
 
 <h2 align="center">Connect with me:</h3>
 
-
 <div align="center"> 
   <a href="https://behance.com/robertojunnior" target="_blank" rel="external">
   <img align="center" alt="Junior-Be" width="50px" src="https://cdn-icons-png.flaticon.com/512/3670/3670094.png">
@@ -38,14 +37,17 @@
 <br> 
 <br>
 
+<!-- github status e linguagens -->
 <div align="center">
   <a href="https://github.com/robertojunnior">
   <img width="39%" src="https://github-readme-stats.vercel.app/api?username=robertojunnior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertojunnior&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<br> 
+<br>
 
+
+<!-- Linguagens e ferramentas -->
 <h2 align="center">Languages and Tools:</h3>
 <div align="center">
   <a href="https://github.com/robertojunnior/alura" target="_blank" rel="external">
@@ -64,6 +66,7 @@
  <br>
  <br>
 
+<!-- streakes de código -->
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=robertojunnior&theme=dracula&hide_border=false"/></a>
 </div>
@@ -84,11 +87,11 @@
       <a align="center" rel="external" href="https://robertojunnior.github.io/nlw-setup/" target="_blank">
       <img align="center" alt="Junior-Rocketseat" width="60px" src="https://global-uploads.webflow.com/61d83a2ebb0ae01ab96e841a/630ced17a99fbd99b6169b52_Logo-NLW-eSports.svg" target="_blank" rel="external"></a>
       <br>
-      <p class="titulos">Projeto NLW Next Week e-Sports - Rocketseat</p>
-      <li>Criando página de perfil com cards para armazenar lista de games, canais e contatos.</li>
+      <h5>Projeto NLW Next Week e-Sports - Rocketseat</h5>
+      Criando página de perfil responsiva com cards para armazenar lista de games favoritos, canais e contatos.
       <br>
-      <li>Tecnologias utilizadas neste projeto:
-      <p>🚀Html, Css e JavaScript.</p>
+      <h5>Tecnologias utilizadas neste projeto:</h5>
+      <p>Html | Css.</p>
       <br>
       </td>
   </tr>
@@ -101,11 +104,10 @@
       <a rel="external" href="https://robertojunnior.github.io/nlw-setup/" target="_blank">
       <img align="center" alt="Junior-Rocketseat" width="60px" src="https://raw.githubusercontent.com/robertojunnior/robertojunnior/01cf5b307cca1f8d17639b7d6fab4f0d3d604b60/assets/logo.svg" target="_blank" rel="external"></a>
       <br>
-      <p class="titulos">Projeto NLW SETUP - Rocketseat</p>
-      <li>Adicione uma nova data e marque suas tarefas, salvando as informações no LocalStorage do seu navegador.</li>
-      <br>
-      <li>Tecnologias utilizadas neste projeto:
-      <p>🚀Html, Css e JavaScript.</p>
+      <h5>Projeto NLW SETUP - Rocketseat</h5>
+      <p>Neste projeto você pode adicionar uma nova data e marcar suas tarefas, salvando as informações no LocalStorage do seu navegador.</p>
+      <h5>Tecnologias utilizadas neste projeto:</h5>
+      <p>Html | Css | JavaScript.</p>
       <br>
     </td>
     <td align="center" bgcolor="#161B22" width="50%">
@@ -116,9 +118,10 @@
 </table>
 
 <br>
-<h2 align="center">🚀 Latest projects and immersions:</h2>
+<!-- <h2 align="center">🚀 Latest projects and immersions:</h2> -->
+
 <!-- 1ª linha da tabela -->
-<table height="290px" align="center">
+<!-- <table height="290px" align="center">
   <tr>
     <td align="center" bgcolor="#161B22">
       <a rel="external" href="https://robertojunnior.github.io/nlw_e_sports/" target="_blank">
@@ -136,9 +139,9 @@
       <a rel="external" href="https://robertojunnior.github.io/projeto-mario/" target="_blank">
       <img align="center" alt="projeto-mario" width="70px" src="https://github.com/robertojunnior/projeto-mario/blob/main/src/imagens/logo-chapeu-mario.png?raw=true" target="_blank" rel="external"></a>
     </td>
-  </tr>
+  </tr> -->
   <!-- 2ª linha da tabela -->
-  <tr>
+  <!-- <tr>
    <td align="center" bgcolor="#161B22">
       <a rel="external" href="https://github.com/robertojunnior/conversor-de-moedas/" target="_blank">
       <img align="center" alt="conversor-de-moedas" width="80px" src="https://github.com/robertojunnior/conversor-de-moedas/blob/main/imagens/icone-moeda.png?raw=true" target="_blank" rel="external"></a>
@@ -156,9 +159,9 @@
       <img align="center" alt="alura-plus" width="130px" src="https://github.com/robertojunnior/alura-plus/blob/master/assets/combo-green.png?raw=true" target="_blank" rel="external">
       </a>
     </td>
-  <tr>
+  <tr> -->
   <!-- 3ª linha da tabela -->
-  <tr>
+  <!-- <tr>
     <td align="center" colspan="3" bgcolor="#161B22">
       <a rel="external" href="https://github.com/robertojunnior/alura-books/" target="_blank">
       <img align="center" alt="alura-book" width="220px" src="https://github.com/robertojunnior/alura-books/blob/master/img/logo-wgite.png?raw=true" target="_blank" rel="external">
@@ -170,7 +173,7 @@
       </a>
     </td>
   </tr>
-</table>
+</table> -->
 
 <br>
  
