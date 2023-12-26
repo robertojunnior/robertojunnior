@@ -69,7 +69,7 @@
 <!-- Projetos desenvolvidos em imersões e aulas --> 
 <section id="projetos__cascata">
   <h2 align="center">LATEST PROJECTS AND IMMERSIONS</h2>
-  <!-- NLW e-Sports -->
+  <!-- 1º NLW e-Sports -->
   <table id="nlw__eSports">
     <tr>
       <td align="center" bgcolor="#161B22" width="50%">
@@ -89,7 +89,7 @@
         </td>
     </tr>
   </table>
-  <!-- NLW - Habits -->
+  <!-- 2º NLW - Habits -->
   <table id="nlw__habits">
     <tr>
       <td  bgcolor="#282A36">
@@ -107,6 +107,26 @@
         <a rel="external" href="https://robertojunnior.github.io/nlw_e_sports/" target="_blank">
         <img align="center" alt="Junior-Rocketseat" width="100%" src="https://github.com/robertojunnior/nlw-setup/blob/master/assets/mockup-entrega.png?raw=true" target="_blank" rel="external"></a>
       </td>
+    </tr>
+  </table>
+  <!-- 3º Tela de Login -->
+  <table id="nlw__eSports">
+    <tr>
+      <td align="center" bgcolor="#161B22" width="50%">
+        <a rel="external" href="https://robertojunnior.github.io/projeto_tela_de_login/" target="_blank">
+        <img align="center" alt="Junior-Rocketseat" width="100%" src="https://github.com/robertojunnior/projeto-tela-de-login/blob/master/assets/img/mockup-github-telaLogin.png?raw=true" target="_blank" rel="external"></a>
+      </td>
+      <td bgcolor="#282A36">
+        <br>
+        <a align="center" rel="external" href="https://robertojunnior.github.io/projeto_tela_de_login/" target="_blank">
+        <img align="center" alt="Junior-Rocketseat" width="60px" src="https://raw.githubusercontent.com/robertojunnior/projeto-tela-de-login/cb226977e35ee9ad97de31d110a1ca58b8b632c0/assets/img/astronaut.svg" target="_blank" rel="external"></a>
+        <br>
+        <h5>Projeto Tela de login animada</h5>
+        <p>Neste projeto criamos uma página de perfil responsiva, com imagem animada e card de login para aplicação do javaScript posteriormente.</p>
+        <h5>Tecnologias utilizadas neste projeto:</h5>
+        <p>Html | Css.</p>
+        <br>
+        </td>
     </tr>
   </table>
 </section>
