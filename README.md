@@ -67,12 +67,11 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=robertojunnior&theme=dracula&hide_border=false"/></a>
 </section>
 
-<!-- Projetos desenvolvidos em imersões e aulas -->
-### :memo: Latest projects and immersions: 
-
-<!-- NLW e-Sports -->
+<!-- Projetos desenvolvidos em imersões e aulas --> 
 <section id="projetos__cascata">
-  <table>
+  <h2>Latest projects and immersions:</h2>
+  <!-- NLW e-Sports -->
+  <table id="nlw__eSports">
     <tr>
       <td align="center" bgcolor="#161B22" width="50%">
         <a rel="external" href="https://robertojunnior.github.io/nlw_e_sports/" target="_blank">
@@ -92,7 +91,7 @@
     </tr>
   </table>
   <!-- NLW - Habits -->
-  <table>
+  <table id="nlw__habits">
     <tr>
       <td  bgcolor="#161B22">
         <br>
@@ -113,10 +112,10 @@
   </table>
 </section>
 
-<section id="tabela__projetos">
+<!-- Tabela de projetos -->
+<!-- <section id="tabela__projetos">
   <h2 align="center">Latest projects and immersions:</h2>
   <table height="290px" align="center">
-    <!-- 1ª linha da tabela -->
     <tr>
       <td align="center" bgcolor="#161B22">
         <a rel="external" href="https://robertojunnior.github.io/nlw_e_sports/" target="_blank">
@@ -135,7 +134,6 @@
         <img align="center" alt="projeto-mario" width="70px" src="https://github.com/robertojunnior/projeto-mario/blob/main/src/imagens/logo-chapeu-mario.png?raw=true" rel="external"></a>
       </td>
     </tr>
-    <!-- 2ª linha da tabela -->
     <tr>
       <td align="center" bgcolor="#161B22">
         <a rel="external" href="https://github.com/robertojunnior/conversor-de-moedas/" target="_blank">
@@ -155,7 +153,6 @@
         </a>
       </td>
     <tr>
-    <!-- 3ª linha da tabela -->
     <tr>
       <td align="center" colspan="3" bgcolor="#161B22">
         <a rel="external" href="https://github.com/robertojunnior/alura-books/" target="_blank">
@@ -169,7 +166,7 @@
       </td>
     </tr>
   </table>
-</section>
+</section> -->
 
 <!-- Projetos atuais em desenvolvimento -->
 
