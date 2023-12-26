@@ -77,7 +77,7 @@
   <tr>
     <td align="center" bgcolor="#161B22" width="50%">
       <a rel="external" href="https://robertojunnior.github.io/nlw_e_sports/" target="_blank">
-      <img align="center" alt="Junior-Rocketseat" width="100%" src="https://github.com/robertojunnior/nlw_e_sports/raw/main/assets/mockup-entrega1.png" target="_blank" rel="external"></a>
+      <img align="center" alt="Junior-Rocketseat" width="100%" src="https://github.com/robertojunnior/nlw_e_sports/raw/main/assets/mockup-entrega.png" target="_blank" rel="external"></a>
     </td>
     <td bgcolor="#161B22">
       <br>
