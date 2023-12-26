@@ -104,7 +104,7 @@
         <br>
       </td>
       <td align="center" bgcolor="#161B22" width="50%">
-        <a rel="external" href="https://robertojunnior.github.io/nlw_setup/" target="_blank">
+        <a rel="external" href="https://robertojunnior.github.io/nlw-setup/" target="_blank">
         <img align="center" alt="Junior-Rocketseat" width="100%" src="https://github.com/robertojunnior/nlw-setup/blob/master/assets/mockup-entrega.png?raw=true" target="_blank" rel="external"></a>
       </td>
     </tr>
