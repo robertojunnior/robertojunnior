@@ -84,7 +84,10 @@
         <h5>Projeto - NLW e-Sports (Rocketseat)</h5>
         <p>Neste projeto criamos uma página de perfil responsiva com cards para armazenar lista de games favoritos, canais e contatos.</p>
         <h5>Tecnologias utilizadas neste projeto:</h5>
-        <p>Html | Css.</p>
+        <p id="badge__linguagens">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+        </p>
         <br>
         </td>
     </tr>
@@ -100,7 +103,11 @@
         <h5>Projeto - NLW SETUP (Rocketseat)</h5>
         <p>Neste projeto você pode adicionar uma nova data e marcar suas tarefas, salvando as informações no LocalStorage do seu navegador.</p>
         <h5>Tecnologias utilizadas neste projeto:</h5>
-        <p>Html | Css | JavaScript.</p>
+        <p id="badge__linguagens">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+        </p>
         <br>
       </td>
       <td align="center" bgcolor="#161B22" width="50%">
@@ -124,7 +131,10 @@
         <h5>Projeto - Tela de login animada</h5>
         <p>Neste projeto criamos uma página de perfil responsiva, com imagem animada e card de login para aplicação do javaScript posteriormente.</p>
         <h5>Tecnologias utilizadas neste projeto:</h5>
-        <p>Html | Css.</p>
+        <p id="badge__linguagens">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+        </p>
         <br>
         </td>
     </tr>
@@ -140,7 +150,11 @@
         <h5>Projeto - Super Mário (O Filme) </h5>
         <p>Neste projeto criamos um fundo com vídeo para a página com clipe do Filme, um botão para chamada do Modal com o Trailer oficial e manipulamos alguns objetos com javaScript no DOM.</p>
         <h5>Tecnologias utilizadas neste projeto:</h5>
-        <p>Html | Css | JavaScript.</p>
+        <p id="badge__linguagens">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+        </p>
         <br>
       </td>
       <td align="center" bgcolor="#161B22" width="50%">
@@ -164,7 +178,11 @@
         <h5>Projeto - Conversor de moedas</h5>
         <p>Neste projeto criamos uma página simples com Card e input de valor para ser convertido fazendo uso da API da EXCHANGE RATE, a aplicação do javaScript ficou por conta do @fernandomontanari.</p>
         <h5>Tecnologias utilizadas neste projeto:</h5>
-        <p>Html | Css | Javascript.</p>
+        <p id="badge__linguagens">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+        </p>
         <br>
         </td>
     </tr>
@@ -180,7 +198,11 @@
         <h5>Projeto - Portfólio Alura </h5>
         <p>Neste projeto criamos uma página simples de portfólio, fontes estilizadas com cores gradientes e botões para direcionamento de links e contatos. Também foi criada uma segunda página "Sobre Mim" onde reutilizamos a mesma folha de estilo.</p>
         <h5>Tecnologias utilizadas neste projeto:</h5>
-        <p>Html | Css.</p>
+        <p id="badge__linguagens">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+        </p>
         <br>
       </td>
       <td align="center" bgcolor="#161B22" width="50%">
@@ -242,3 +264,9 @@
     </a>
   </div>
 </section>
+
+<p id="badge__linguagens">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+</p>
