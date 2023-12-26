@@ -110,7 +110,7 @@
     </tr>
   </table>
   <!-- 3º Tela de Login -->
-  <table id="nlw__eSports">
+  <table id="tela__deLogin">
     <tr>
       <td align="center" bgcolor="#161B22" width="50%">
         <a rel="external" href="https://github.com/robertojunnior/projeto-tela-de-login/" target="_blank">
@@ -129,6 +129,26 @@
         </td>
     </tr>
   </table>
+  <!-- 4º Projeto Mário o Filme -->
+  <table id="mario__Filme">
+    <tr>
+      <td  bgcolor="#282A36">
+        <br>
+        <a rel="external" href="https://github.com/robertojunnior/projeto-mario/" target="_blank">
+        <img align="center" alt="Junior-Rocketseat" width="40px" src="https://github.com/robertojunnior/projeto-mario/blob/main/src/imagens/logo-chapeu-mario.png?raw=true" target="_blank" rel="external"></a>
+        <br>
+        <h5>Projeto Super Mário - O Filme</h5>
+        <p>Neste projeto criamos um fundo com vídeo para a página com clipe do Filme, um botão para chamada do Modal com o Trailer oficial e manipulamos alguns objetos com javaScript no DOM.</p>
+        <h5>Tecnologias utilizadas neste projeto:</h5>
+        <p>Html | Css | JavaScript.</p>
+        <br>
+      </td>
+      <td align="center" bgcolor="#161B22" width="50%">
+        <a rel="external" href="https://github.com/robertojunnior/projeto-mario/" target="_blank">
+        <img align="center" alt="Junior-Rocketseat" width="100%" src="https://github.com/robertojunnior/projeto-mario/blob/main/src/imagens/mockup-entrega-github.png?raw=true" target="_blank" rel="external"></a>
+      </td>
+    </tr>
+  </table>
 </section>
 
 <!-- Tabela de projetos -->
@@ -136,18 +156,6 @@
   <h2 align="center">Latest projects and immersions:</h2>
   <table height="290px" align="center">
     <tr>
-      <td align="center" bgcolor="#161B22">
-        <a rel="external" href="https://robertojunnior.github.io/nlw_e_sports/" target="_blank">
-        <img align="center" alt="Junior-Rocketseat" width="100px" src="https://global-uploads.webflow.com/61d83a2ebb0ae01ab96e841a/630ced17a99fbd99b6169b52_Logo-NLW-eSports.svg" rel="external"></a>
-      </td>
-      <td align="center" bgcolor="#161B22">
-        <a rel="external" href="https://robertojunnior.github.io/nlw-setup/" target="_blank">
-        <img align="center" alt="Junior-Rocketseat" width="100px" src="https://raw.githubusercontent.com/robertojunnior/robertojunnior/01cf5b307cca1f8d17639b7d6fab4f0d3d604b60/assets/logo.svg" rel="external"></a>
-      </td>
-      <td align="center" bgcolor="#161B22">
-        <a rel="external" href="https://github.com/robertojunnior/projeto-tela-de-login/" target="_blank">
-        <img align="center" alt="tela-login" width="100px" src="https://raw.githubusercontent.com/robertojunnior/projeto-tela-de-login/cb226977e35ee9ad97de31d110a1ca58b8b632c0/assets/img/astronaut.svg" rel="external"></a>
-      </td>
       <td align="center" bgcolor="#161B22">
         <a rel="external" href="https://robertojunnior.github.io/projeto-mario/" target="_blank">
         <img align="center" alt="projeto-mario" width="70px" src="https://github.com/robertojunnior/projeto-mario/blob/main/src/imagens/logo-chapeu-mario.png?raw=true" rel="external"></a>
