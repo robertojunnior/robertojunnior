@@ -147,8 +147,8 @@
         <a rel="external" href="https://github.com/robertojunnior/projeto-mario/" target="_blank">
         <img align="center" alt="junior-marioBros" width="40px" src="https://github.com/robertojunnior/projeto-mario/blob/main/src/imagens/logo-chapeu-mario.png?raw=true" target="_blank" rel="external"></a>
         <br>
-        <h5>Projeto - Super Mário (O Filme) </h5>
-        <p>Neste projeto criamos um fundo com vídeo para a página com clipe do Filme, um botão para chamada do Modal com o Trailer oficial e manipulamos alguns objetos com javaScript no DOM.</p>
+        <h5>Projeto - Super Mário - O Filme (Dev em Dobro) </h5>
+        <p>Neste projeto criamos um background com vídeo para a página com clipe do Filme, um botão para chamada do Modal com o Trailer oficial e manipulamos alguns objetos com javaScript no DOM.</p>
         <h5>Tecnologias utilizadas neste projeto:</h5>
         <p id="badge__linguagens">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -290,11 +290,6 @@
   <h2 align="center">Latest projects and immersions:</h2>
   <table height="290px" align="center">
     <tr>
-      <td align="center" colspan="3" bgcolor="#161B22">
-        <a rel="external" href="https://github.com/robertojunnior/alura-books/" target="_blank">
-        <img align="center" alt="alura-book" width="220px" src="https://github.com/robertojunnior/alura-books/blob/master/img/logo-wgite.png?raw=true" rel="external">
-        </a>
-      </td>
       <td align="center" rowspan="2" bgcolor="#161B22">
         <a rel="external" href="https://github.com/robertojunnior/alura-midi/" target="_blank">
         <img align="center" alt="alura-midi" width="80px" src="https://github.com/robertojunnior/alura-midi/blob/master/images/bateria.png?raw=true" rel="external">
