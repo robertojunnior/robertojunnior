@@ -272,7 +272,7 @@
         <img align="center" alt="projeto-alura-books" width="30px" src="https://raw.githubusercontent.com/robertojunnior/alura-books/cfb13c9e849645415109eb08466a07b4282eb107/img/Logo.svg" rel="external"></a>
         <br>
         <h5>Projeto - Alura Books</h5>
-        <p>Neste projeto criamos uma página responsiva com menu, seções, cards, carrossel com uso de SWIPER JS, botões e rodapé personalizado. Dentro dos assuntos do vídeo, o instrutora Mônica fala também de temas como Mobile-First, Responsividade, Html semântico, Flexbox e Grid.</p>
+        <p>Neste projeto criamos uma página responsiva com menu suspenso sem uso de JS, seções, cards, carrossel com uso de SWIPER JS, botões e rodapé personalizado. A instrutora Mônica fala também de temas como Mobile-First, Responsividade, Html semântico, Flexbox e Grid.</p>
         <h5>Tecnologias utilizadas neste projeto:</h5>
         <p id="badge__linguagens">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
