@@ -23,14 +23,14 @@
 <section id="contatos">
   <h2 align="center">CONNECT WITH ME</h3>
   <div align="center">
-    <a href="https://behance.com/robertojunnior" target="_blank" rel="external">
-    <img align="center" alt="Junior-Be" width="50px" src="https://cdn-icons-png.flaticon.com/512/3670/3670094.png">
-    <a href="https://instagram.com/_onedeveloper" target="_blank" rel="external">
-    <img align="center" alt="Junior-instagram" width="50px" src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png">
     <a href="https://linkedin.com/in/robertopontojunior/" target="_blank" rel="external">
     <img align="center" alt="Junior-in" width="50px" src="https://cdn-icons-png.flaticon.com/512/4494/4494498.png">
     <a href="https://discord.gg/e9SU4WNz" target="_blank" rel="external">
     <img align="center" alt="Junior-discord" width="50px" src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png">
+    <a href="https://behance.com/robertojunnior" target="_blank" rel="external">
+    <img align="center" alt="Junior-Be" width="50px" src="https://cdn-icons-png.flaticon.com/512/3670/3670094.png">
+    <a href="https://instagram.com/_onedeveloper" target="_blank" rel="external">
+    <img align="center" alt="Junior-instagram" width="50px" src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png">
     <a href="mailto:roberjunior.dev@gmail.com" target="_blank" rel="external">
     <img align="center" alt="Junior-discord" width="50px" src="https://cdn-icons-png.flaticon.com/512/552/552486.png">
   </div>
