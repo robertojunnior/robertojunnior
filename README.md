@@ -292,7 +292,7 @@
         <img align="center" alt="projeto-alura-plus" width="40px" src="https://github.com/robertojunnior/alura-midi/blob/master/images/bateria.png?raw=true" rel="external"></a>
         <br>
         <h5>Projeto - Alura Midi </h5>
-        <p>Neste projeto criamos uma página simples, onde o Alura Midi é um instrumento musical de interface digital e cada botão vamos reproduzir o som de um instrumento manipulando os objetos com o uso de JavaScript.</p>
+        <p>Neste projeto criamos uma página simples, onde o Alura Midi é um instrumento musical de interface digital e cada botão vamos reproduzir o som de um instrumento manipulando os dados com o uso de JavaScript.</p>
         <h5>Tecnologias utilizadas neste projeto:</h5>
         <p id="badge__linguagens">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
