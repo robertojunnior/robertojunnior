@@ -148,7 +148,7 @@
         <img align="center" alt="junior-marioBros" width="40px" src="https://github.com/robertojunnior/projeto-mario/blob/main/src/imagens/logo-chapeu-mario.png?raw=true" target="_blank" rel="external"></a>
         <br>
         <h5>Projeto - Super Mário - O Filme (Dev em Dobro) </h5>
-        <p>Neste projeto criamos um background com vídeo para a página com clipe do Filme, um botão para chamada do Modal com o Trailer oficial e manipulamos alguns objetos com javaScript no DOM.</p>
+        <p>Neste projeto criamos um background com vídeo para a página com clipe do Filme, um botão para chamada do Modal com o Trailer oficial e manipulamos alguns dados com javaScript no DOM.</p>
         <h5>Tecnologias utilizadas neste projeto:</h5>
         <p id="badge__linguagens">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
