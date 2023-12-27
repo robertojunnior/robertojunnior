@@ -79,7 +79,7 @@
       <td bgcolor="#282A36">
         <br>
         <a align="center" rel="external" href="https://github.com/robertojunnior/nlw_e_sports" target="_blank">
-        <img align="center" alt="Junior-Rocketseat" width="60px" src="https://global-uploads.webflow.com/61d83a2ebb0ae01ab96e841a/630ced17a99fbd99b6169b52_Logo-NLW-eSports.svg" target="_blank" rel="external"></a>
+        <img align="center" alt="Junior-Rocketseat" width="60px" src="https://global-uploads.webflow.com/61d83a2ebb0ae01ab96e841a/630ced17a99fbd99b6169b52_Logo-NLW-eSports.svg" rel="external"></a>
         <br>
         <h5>Projeto - NLW e-Sports (Rocketseat)</h5>
         <p>Neste projeto criamos uma página de perfil responsiva com cards para armazenar lista de games favoritos, canais e contatos.</p>
@@ -98,7 +98,7 @@
       <td  bgcolor="#282A36">
         <br>
         <a rel="external" href="https://github.com/robertojunnior/nlw-setup/" target="_blank">
-        <img align="center" alt="Junior-Rocketseat" width="60px" src="https://raw.githubusercontent.com/robertojunnior/robertojunnior/01cf5b307cca1f8d17639b7d6fab4f0d3d604b60/assets/logo.svg" target="_blank" rel="external"></a>
+        <img align="center" alt="Junior-Rocketseat" width="60px" src="https://raw.githubusercontent.com/robertojunnior/robertojunnior/01cf5b307cca1f8d17639b7d6fab4f0d3d604b60/assets/logo.svg" rel="external"></a>
         <br>
         <h5>Projeto - NLW SETUP (Rocketseat)</h5>
         <p>Neste projeto você pode adicionar uma nova data e marcar suas tarefas, salvando as informações no LocalStorage do seu navegador.</p>
@@ -121,12 +121,12 @@
     <tr>
       <td align="center" bgcolor="#161B22" width="50%">
         <a rel="external" href="https://github.com/robertojunnior/projeto-tela-de-login/" target="_blank">
-        <img align="center" alt="Junior-Rocketseat" width="100%" src="https://github.com/robertojunnior/projeto-tela-de-login/blob/master/assets/img/mockup-github-telaLogin.png?raw=true" target="_blank" rel="external"></a>
+        <img align="center" alt="Junior-Rocketseat" width="100%" src="https://github.com/robertojunnior/projeto-tela-de-login/blob/master/assets/img/mockup-github-telaLogin.png?raw=true" rel="external"></a>
       </td>
       <td bgcolor="#282A36">
         <br>
         <a align="center" rel="external" href="https://github.com/robertojunnior/projeto-tela-de-login/" target="_blank">
-        <img align="center" alt="tela-de-login" width="60px" src="https://raw.githubusercontent.com/robertojunnior/projeto-tela-de-login/cb226977e35ee9ad97de31d110a1ca58b8b632c0/assets/img/astronaut.svg" target="_blank" rel="external"></a>
+        <img align="center" alt="tela-de-login" width="60px" src="https://raw.githubusercontent.com/robertojunnior/projeto-tela-de-login/cb226977e35ee9ad97de31d110a1ca58b8b632c0/assets/img/astronaut.svg" rel="external"></a>
         <br>
         <h5>Projeto - Tela de login animada</h5>
         <p>Neste projeto criamos uma página de perfil responsiva, com imagem animada e card de login para aplicação do javaScript posteriormente.</p>
@@ -159,7 +159,7 @@
       </td>
       <td align="center" bgcolor="#161B22" width="50%">
         <a rel="external" href="https://github.com/robertojunnior/projeto-mario/" target="_blank">
-        <img align="center" alt="junior-super-mario" width="100%" src="https://github.com/robertojunnior/projeto-mario/blob/main/src/imagens/mockup-entrega-github.png?raw=true" target="_blank" rel="external"></a>
+        <img align="center" alt="junior-super-mario" width="100%" src="https://github.com/robertojunnior/projeto-mario/blob/main/src/imagens/mockup-entrega-github.png?raw=true" rel="external"></a>
       </td>
     </tr>
   </table>
@@ -168,12 +168,12 @@
     <tr>
       <td align="center" bgcolor="#161B22" width="50%">
         <a rel="external" href="https://github.com/robertojunnior/conversor-de-moedas/" target="_blank">
-        <img align="center" alt="junior-conversor" width="100%" src="https://github.com/robertojunnior/conversor-de-moedas/blob/main/imagens/mockup-entrega-conversor.png?raw=true" target="_blank" rel="external"></a>
+        <img align="center" alt="junior-conversor" width="100%" src="https://github.com/robertojunnior/conversor-de-moedas/blob/main/imagens/mockup-entrega-conversor.png?raw=true" rel="external"></a>
       </td>
       <td bgcolor="#282A36">
         <br>
         <a align="center" rel="external" href="https://github.com/robertojunnior/conversor-de-moedas/" target="_blank">
-        <img align="center" alt="Junior-conversor-de-moedas" width="40px" src="https://github.com/robertojunnior/conversor-de-moedas/blob/main/imagens/money-bag.png?raw=true" target="_blank" rel="external"></a>
+        <img align="center" alt="Junior-conversor-de-moedas" width="40px" src="https://github.com/robertojunnior/conversor-de-moedas/blob/main/imagens/money-bag.png?raw=true" rel="external"></a>
         <br>
         <h5>Projeto - Conversor de moedas</h5>
         <p>Neste projeto criamos uma página simples com Card e input de valor para ser convertido fazendo uso da API da EXCHANGE RATE, a aplicação do javaScript ficou por conta do @fernandomontanari.</p>
@@ -193,7 +193,7 @@
       <td  bgcolor="#282A36">
         <br>
         <a rel="external" href="https://github.com/robertojunnior/alura-portfolio/" target="_blank">
-        <img align="center" alt="junior-portfolio-alura" width="60px" src="https://raw.githubusercontent.com/robertojunnior/alura-portfolio/c85ba2f7276350edc2009ee70b24687e4d2a75fc/assets/img.svg" target="_blank" rel="external"></a>
+        <img align="center" alt="junior-portfolio-alura" width="60px" src="https://raw.githubusercontent.com/robertojunnior/alura-portfolio/c85ba2f7276350edc2009ee70b24687e4d2a75fc/assets/img.svg" rel="external"></a>
         <br>
         <h5>Projeto - Portfólio Alura </h5>
         <p>Neste projeto criamos uma página simples de portfólio, fontes estilizadas com cores gradientes e botões para direcionamento de links e contatos. Também foi criada uma segunda página "Sobre Mim" onde reutilizamos a mesma folha de estilo.</p>
@@ -207,7 +207,7 @@
       </td>
       <td align="center" bgcolor="#161B22" width="50%">
         <a rel="external" href="https://github.com/robertojunnior/alura-portfolio/" target="_blank">
-        <img align="center" alt="junior-portfolio-alura" width="100%" src="https://github.com/robertojunnior/alura-portfolio/blob/master/assets/mockup-entrega-github-personalizado.png?raw=true" target="_blank" rel="external"></a>
+        <img align="center" alt="junior-portfolio-alura" width="100%" src="https://github.com/robertojunnior/alura-portfolio/blob/master/assets/mockup-entrega-github-personalizado.png?raw=true" rel="external"></a>
       </td>
     </tr>
   </table>
@@ -216,12 +216,12 @@
     <tr>
       <td align="center" bgcolor="#161B22" width="50%">
         <a rel="external" href="https://github.com/robertojunnior/jazz-school/" target="_blank">
-        <img align="center" alt="junior-jazz-school" width="100%" src="https://github.com/robertojunnior/jazz-school/blob/master/img/mockup-entrega.png?raw=true" target="_blank" rel="external"></a>
+        <img align="center" alt="junior-jazz-school" width="100%" src="https://github.com/robertojunnior/jazz-school/blob/master/img/mockup-entrega.png?raw=true" rel="external"></a>
       </td>
       <td bgcolor="#282A36">
         <br>
         <a align="center" rel="external" href="https://github.com/robertojunnior/conversor-de-moedas/" target="_blank">
-        <img align="center" alt="Junior-jazz-school" width="60px" src="https://raw.githubusercontent.com/robertojunnior/jazz-school/47b300f354c30e3b39a6c0204656e9d65fcfa49a/img/hero-img.svg" target="_blank" rel="external"></a>
+        <img align="center" alt="Junior-jazz-school" width="60px" src="https://raw.githubusercontent.com/robertojunnior/jazz-school/47b300f354c30e3b39a6c0204656e9d65fcfa49a/img/hero-img.svg" rel="external"></a>
         <br>
         <h5>Projeto - Jazz School</h5>
         <p>Neste projeto criamos uma página responsiva com menu, seções, cards, botões e inputs para envio de news letters. Dentro dos assuntos do vídeo, o instrutor Isaac fala também de temas como Mobile-First, Responsividade, Html semântico, Flexbox e Grid.  </p>
@@ -283,21 +283,31 @@
       </td>
     </tr>
   </table>
-</section>
-
-<!-- Tabela de projetos -->
-<!-- <section id="tabela__projetos">
-  <h2 align="center">Latest projects and immersions:</h2>
-  <table height="290px" align="center">
+  <!-- 10º Projeto - Alura midi -->
+  <table id="alura__midi">
     <tr>
-      <td align="center" rowspan="2" bgcolor="#161B22">
+      <td  bgcolor="#282A36">
+        <br>
         <a rel="external" href="https://github.com/robertojunnior/alura-midi/" target="_blank">
-        <img align="center" alt="alura-midi" width="80px" src="https://github.com/robertojunnior/alura-midi/blob/master/images/bateria.png?raw=true" rel="external">
-        </a>
+        <img align="center" alt="projeto-alura-plus" width="40px" src="https://github.com/robertojunnior/alura-midi/blob/master/images/bateria.png?raw=true" rel="external"></a>
+        <br>
+        <h5>Projeto - Alura Midi </h5>
+        <p>Neste projeto criamos uma página simples, onde o Alura Midi é um instrumento musical de interface digital e cada botão vamos reproduzir o som de um instrumento manipulando os objetos com o uso de JavaScript.</p>
+        <h5>Tecnologias utilizadas neste projeto:</h5>
+        <p id="badge__linguagens">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+        </p>
+        <br>
+      </td>
+      <td align="center" bgcolor="#161B22" width="50%">
+        <a rel="external" href="https://github.com/robertojunnior/alura-midi/" target="_blank">
+        <img align="center" alt="projeto-alura-plus" width="100%" src="https://github.com/robertojunnior/alura-midi/blob/master/images/mockup-entrega.png?raw=true" rel="external"></a>
       </td>
     </tr>
   </table>
-</section> -->
+</section>
 
 <!-- Projetos atuais em desenvolvimento -->
 
