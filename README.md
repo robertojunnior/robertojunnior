@@ -16,8 +16,6 @@
     </ul>
   </div>
 </section>
-    
-<!-- <h5 align="center"> 😉 FYI: You followed me, I follow you... you unfollowed me, I also unfollowed you... </h5> -->
 
 <!-- Contatos -->
 <section id="contatos">
