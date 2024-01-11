@@ -1,5 +1,5 @@
 <section id="apresentacao">
-  <h1 align="center">Hi there 👽</h1>
+  <h1 align="center">Hi there 👽 </h1>
   <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=My+name+is+Roberto+Junior+%F0%9F%98%81;Welcome+to+my+GitHub+profile!%F0%9F%96%96" alt="Typing SVG" /></a>
   </div>
@@ -332,6 +332,10 @@
   </div>
 </section>
 
+<br>
+ <a href="https://github.com/robertojunnior">
+   <img align="center" src="https://img.shields.io/static/v1?label=github&message=RoberJunior&color=7159c1&style=for-the-badge&logo=ghost"/>
+ </a>
 
 <!-- badges para uso no readme -->
 <!-- <p id="badges__linguagens">
