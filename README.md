@@ -66,7 +66,7 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=robertojunnior&theme=dracula&hide_border=false"/></a>
 </section>
 
-<!-- Projetos desenvolvidos em imersões e aulas --> 
+<!-- Projetos desenvolvidos em imersões e aulas -->
 <section id="projetos__cascata">
   <h2 align="center">LATEST PROJECTS AND IMMERSIONS</h2>
   <!-- 1º NLW e-Sports -->
@@ -310,7 +310,32 @@
       </td>
       <td align="center" bgcolor="#161B22" width="50%">
         <a rel="external" href="https://github.com/robertojunnior/alura-midi/" target="_blank">
-        <img align="center" alt="projeto-alura-plus" width="100%" src="https://github.com/robertojunnior/alura-midi/blob/master/images/mockup-entrega.png?raw=true" rel="external"></a>
+        <img align="center" alt="projeto-alura-midi" width="100%" src="https://github.com/robertojunnior/alura-midi/blob/master/images/mockup-entrega.png?raw=true" rel="external"></a>
+      </td>
+    </tr>
+  </table>
+
+  <!-- 11º - Projeto Robotron 2000 -->
+ <table id="alura__robotron">
+    <tr>
+      <td align="center" bgcolor="#161B22" width="50%">
+        <a rel="external" href="https://github.com/robertojunnior/alura-robotron2000/" target="_blank">
+        <img align="center" alt="projeto-alura-robotron" width="100%" src="https://github.com/robertojunnior/alura-robotron2000/blob/main/img/tela-projeto.png?raw=true" rel="external"></a>
+      </td>
+      <td bgcolor="#282A36">
+        <br>
+        <a align="center" rel="external" href="https://github.com/robertojunnior/alura-books/" target="_blank">
+        <img align="center" alt="projeto-alura-books" width="30px" src="https://raw.githubusercontent.com/robertojunnior/alura-books/cfb13c9e849645415109eb08466a07b4282eb107/img/Logo.svg" rel="external"></a>
+        <br>
+        <h5>Projeto - Alura Robotron 2000</h5>
+        <p>Neste projeto não responsivo elaborado pelo instrutor Pedro Marins, exercitamos exemplos de manipulação do DOM com HTML, CSS e , JavaScript. Manipulamos dados, eventos, criamos e declaramos funções para interagir com o Upgrade das peças no Robotron.</p>
+        <h5>Tecnologias utilizadas neste projeto:</h5>
+        <p id="badge__linguagens">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+        </p>
+        <br>
       </td>
     </tr>
   </table>
@@ -319,21 +344,14 @@
 <!-- Projetos atuais em desenvolvimento -->
 
 <section id="projetos__atuais">
-  <h2 align="center">🧑‍🚀 Current project 01 - Alura Robotron 2000</h2>
-  <div align="center">
-    <a rel="external" href="https://github.com/robertojunnior/alura/" target="_blank">
-    <img align="center" alt="alura-robotron" width="140px" src="https://github.com/robertojunnior/alura-robotron2000/blob/main/img/robotron.png?raw=true" rel="external">
-    </a>
-  </div>
   <br>
-  <h2 align="center">🧑‍🚀 Current project 02 - Alura Fokus</h2>
+  <h2 align="center">🧑‍🚀 Current project - Alura Fokus</h2>
   <div align="center">
     <a rel="external" href="https://github.com/robertojunnior/alura/" target="_blank">
-    <img align="center" alt="alura-fokus" width="140px" src="https://github.com/robertojunnior/alura-fokus/blob/main/imagens/foco.png?raw=true" rel="external">
+    <img align="center" alt="alura-fokus" width="30%" src="https://github.com/robertojunnior/alura-fokus/blob/main/imagens/foco.png?raw=true" rel="external">
     </a>
   </div>
 </section>
-
 
 <!-- badges para uso no readme -->
 <!-- <p id="badges__linguagens">
