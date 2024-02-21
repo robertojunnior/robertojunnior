@@ -1,5 +1,5 @@
 <section id="apresentacao">
-  <h1 align="center">Hi there 👽</h1>
+  <h1 align="center">Hi there 👽 </h1>
   <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=My+name+is+Roberto+Junior+%F0%9F%98%81;Welcome+to+my+GitHub+profile!%F0%9F%96%96" alt="Typing SVG" /></a>
   </div>
@@ -8,7 +8,7 @@
          <li><tr>🧑‍🚀 In 2022 I finished college as a Technologist in systems analysis and development 👨🏻‍🎓.
          <li><tr>📖 Currently studying Front-End development at Alura school.
          <li><tr>🔭 I created the "One Developer" brand to offer Graphic Designer and web development services as a Freelancer.</tr></li>
-         <li><tr>🌱 The languages I'm learning are HTML, CSS, JavaScript and React.</tr></li>
+         <li><tr>🌱 Right now I'm learning HTML, CSS, JavaScript and React.</tr></li>
          <li><tr>👯 I’m looking to collaborate on any project that accepts Dev Jr! 👍</tr></li>
          <li><tr>🤔 I'm looking for partnerships to learn HTML, CSS and JavaScript.</tr></li>
          <li><tr>💬 Ask me about My Life...</tr></li>
@@ -16,8 +16,6 @@
     </ul>
   </div>
 </section>
-    
-<!-- <h5 align="center"> 😉 FYI: You followed me, I follow you... you unfollowed me, I also unfollowed you... </h5> -->
 
 <!-- Contatos -->
 <section id="contatos">
