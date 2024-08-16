@@ -16,6 +16,8 @@
     </ul>
   </div>
 </section>
+<br>
+<br>
 
 <!-- Contatos -->
 <section id="contatos">
@@ -34,6 +36,8 @@
   </div>
   <br>
 </section>
+      <br>
+      <br>
 
 <!-- github status e linguagens -->
 <section id="github_status" align="center">
@@ -41,6 +45,8 @@
   <img width="39%" src="https://github-readme-stats.vercel.app/api?username=robertojunnior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertojunnior&layout=compact&langs_count=7&theme=dracula"/>
 </section>
+    <br>
+    <br>
 
 <!-- Linguagens e ferramentas -->
 <section id="linguagens_ferramentas">
@@ -60,9 +66,9 @@
 </section>
 
 <!-- streaks de código -->
-<section id="streaks" align="center">
+<!-- <section id="streaks" align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=robertojunnior&theme=dracula&hide_border=false"/></a>
-</section>
+</section> -->
 
 <!-- Projetos desenvolvidos em imersões e aulas -->
 <section id="projetos__cascata">
@@ -91,6 +97,7 @@
       </td>
     </tr>
   </table>
+  
   <!-- 2º NLW - Habits -->
   <table id="nlw__habits">
     <tr>
