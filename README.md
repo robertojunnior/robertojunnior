@@ -8,7 +8,7 @@
          <li><tr>🧑‍🚀 Technologist in systems analysis and development 👨🏻‍🎓.
          <li><tr>📖 Currently studying Front-End development at Alura school.
          <li><tr>🔭 I created the "One Developer" brand to offer Graphic Designer and web development services as a Freelancer.</tr></li>
-         <li><tr>🌱 Right now I'm learning HTML, CSS, JavaScript and React.</tr></li>
+         <li><tr>🌱 Right now I'm learning HTML, CSS, JavaScript, React and React Native para Mobile.</tr></li>
          <li><tr>👯 I’m looking to collaborate on any project that accepts Dev Jr! 👍</tr></li>
          <li><tr>🤔 I'm looking for partnerships to learn HTML, CSS and JavaScript.</tr></li>
          <li><tr>💬 Ask me about My Life...</tr></li>
