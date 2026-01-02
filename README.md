@@ -76,9 +76,63 @@
 
 <!-- 0º Git Chekc -->
 
-<table id="git__check">
+<table id="git__check" width="30%">
     <tr>
-      <td  bgcolor="#282A36" width="50%">
+      <td  bgcolor="#282A36">
+        <br>
+        <a rel="external" href="https://github.com/robertojunnior/git-check/" target="_blank">
+        <img align="center" alt="junior-git-check" width="60px" src="https://github.com/robertojunnior/git-check/blob/main/assets/icon-192.png?raw=true"</a>
+        <br>
+        <h5>Projeto - Git Check</h5>
+        <p>Neste projeto você pode verificar com uma rápida consulta quem você segue aqui no GitHub, mas não te segue de volta.</p>
+        <h5>Tecnologias utilizadas neste projeto:</h5>
+        <p id="badge__linguagens">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+        </p>
+        <br>
+        <a rel="external" href="https://github.com/robertojunnior/git-check" target="_blank">
+        <img align="center" alt="git-check-projeto" width="100%" src="https://github.com/robertojunnior/git-check/blob/main/assets/mockup-entrega.png?raw=true" target="_blank" rel="external"></a>
+      </td> <!-- fim Git Chekc -->
+      <br>
+      <td  bgcolor="#282A36">
+        <br>
+        <a rel="external" href="https://github.com/robertojunnior/git-check/" target="_blank">
+        <img align="center" alt="junior-git-check" width="60px" src="https://github.com/robertojunnior/git-check/blob/main/assets/icon-192.png?raw=true"</a>
+        <br>
+        <h5>Projeto - Git Check</h5>
+        <p>Neste projeto você pode verificar com uma rápida consulta quem você segue aqui no GitHub, mas não te segue de volta.</p>
+        <h5>Tecnologias utilizadas neste projeto:</h5>
+        <p id="badge__linguagens">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+        </p>
+        <br>
+        <a rel="external" href="https://github.com/robertojunnior/git-check" target="_blank">
+        <img align="center" alt="git-check-projeto" width="100%" src="https://github.com/robertojunnior/git-check/blob/main/assets/mockup-entrega.png?raw=true" target="_blank" rel="external"></a>
+      </td> <!-- fim Git Chekc -->
+      <br>
+      <td  bgcolor="#282A36">
+        <br>
+        <a rel="external" href="https://github.com/robertojunnior/git-check/" target="_blank">
+        <img align="center" alt="junior-git-check" width="60px" src="https://github.com/robertojunnior/git-check/blob/main/assets/icon-192.png?raw=true"</a>
+        <br>
+        <h5>Projeto - Git Check</h5>
+        <p>Neste projeto você pode verificar com uma rápida consulta quem você segue aqui no GitHub, mas não te segue de volta.</p>
+        <h5>Tecnologias utilizadas neste projeto:</h5>
+        <p id="badge__linguagens">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+        </p>
+        <br>
+        <a rel="external" href="https://github.com/robertojunnior/git-check" target="_blank">
+        <img align="center" alt="git-check-projeto" width="100%" src="https://github.com/robertojunnior/git-check/blob/main/assets/mockup-entrega.png?raw=true" target="_blank" rel="external"></a>
+      </td> <!-- fim Git Chekc -->
+      <br>
+      <td  bgcolor="#282A36">
         <br>
         <a rel="external" href="https://github.com/robertojunnior/git-check/" target="_blank">
         <img align="center" alt="junior-git-check" width="60px" src="https://github.com/robertojunnior/git-check/blob/main/assets/icon-192.png?raw=true"</a>
