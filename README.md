@@ -92,7 +92,9 @@
         <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
         </p>
         <br>
-      </td>
+        </td>
+    </tr> 
+    <tr>
       <td align="center" bgcolor="#161B22" width="50%">
         <a rel="external" href="https://github.com/robertojunnior/git-check" target="_blank">
         <img align="center" alt="git-check-projeto" width="100%" src="https://github.com/robertojunnior/git-check/blob/main/assets/mockup-entrega.png?raw=true" target="_blank" rel="external"></a>
