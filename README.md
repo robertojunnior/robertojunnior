@@ -93,7 +93,7 @@
         </p>
         <br>
         <a rel="external" href="https://github.com/robertojunnior/git-check" target="_blank">
-        <img align="center" alt="git-check-projeto" width="100%" src="https://github.com/robertojunnior/git-check/blob/main/assets/mockup-entrega.png?raw=true" target="_blank" rel="external"></a>
+        <img align="center" alt="git-check-projeto" width="100%" src="https://github.com/robertojunnior/git-check/blob/main/assets/mockup-entrega.webp?raw=true" target="_blank" rel="external"></a>
       </td> <!-- fim Git Chekc -->
     </tr>
   </table>
