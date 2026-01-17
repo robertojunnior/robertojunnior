@@ -53,18 +53,21 @@
   <h2 align="center">LANGUAGES AND TOOLS</h3>
   <div align="center">
     <a href="https://github.com/robertojunnior/alura" target="_blank" rel="external">
-    <img align="center" alt="Junior-HTML" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      <img align="center" alt="Junior-HTML" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <a href="https://github.com/robertojunnior/alura" target="_blank" rel="external">
-    <img align="center" alt="Junior-CSS" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-     <a href="https://github.com/robertojunnior/alura" target="_blank" rel="noopener noreferrer">
-    <img align="center" alt="Junior-Js" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-        <a href="https://github.com/robertojunnior/react" target="_blank" rel="external">
-    <img align="center" alt="Junior-react-native" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/reactnative/reactnative-original-wordmark.svg">
-    <a href="https://github.com/robertojunnior/react" target="_blank" rel="external">
-    <img align="center" alt="Junior-expo-go" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/expo/expo-original-wordmark.svg">
-    <a href="https://github.com/robertojunnior/react" target="_blank" rel="external">
+      <img align="center" alt="Junior-CSS" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <a href="https://github.com/robertojunnior/alura" target="_blank" rel="noopener noreferrer">
+      <img align="center" alt="Junior-Js" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <a href="https://github.com/robertojunnior/alura" target="_blank" rel="noopener noreferrer">
+      <img align="center" alt="Junior-Ts" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
     <a href="https://github.com/robertojunnior/python" target="_blank" rel="external">
-    <img align="center" alt="Junior-Python" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      <img align="center" alt="Junior-Python" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <a href="https://github.com/robertojunnior/react" target="_blank" rel="external">
+      <img align="center" alt="Junior-react" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <a href="https://github.com/robertojunnior/react" target="_blank" rel="external">
+      <img align="center" alt="Junior-react-native" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/reactnative/reactnative-original-wordmark.svg">
+    <a href="https://github.com/robertojunnior/react" target="_blank" rel="external">
+      <img align="center" alt="Junior-expo-go" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/expo/expo-original-wordmark.svg">
   </div>
    <br>
    <br>
