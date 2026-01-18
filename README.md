@@ -381,7 +381,7 @@
 
 <!-- Projetos atuais em desenvolvimento -->
 
-<section id="projetos__atuais">
+<!-- <section id="projetos__atuais">
   <br>
   <h2 align="center">🧑‍🚀 Current project - Alura Fokus</h2>
   <div align="center">
@@ -389,7 +389,7 @@
     <img align="center" alt="alura-fokus" width="30%" src="https://github.com/robertojunnior/alura-fokus/blob/main/imagens/foco.png?raw=true" rel="external">
     </a>
   </div>
-</section>
+</section> -->
 
 <!-- badges para uso no readme -->
 <!-- <p id="badges__linguagens">
