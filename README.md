@@ -40,13 +40,13 @@
       <br>
 
 <!-- github status e linguagens -->
-<!-- <section id="github_status" align="center">
+<section id="github_status" align="center">
   <a href="https://github.com/robertojunnior">
   <img width="39%" src="https://github-readme-stats.vercel.app/api?username=robertojunnior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img width="29.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertojunnior&layout=compact&langs_count=7&theme=dracula"/>
 </section>
     <br>
-    <br> -->
+    <br>
 
 <!-- Linguagens e ferramentas -->
 <section id="linguagens_ferramentas">
