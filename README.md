@@ -5,14 +5,14 @@
   </div>
   <div align="center">
     <ul align="left" list-style="none">
-         <li><tr>🧑‍🚀 Technologist in systems analysis and development 👨🏻‍🎓.
-         <li><tr>📖 Currently studying Front-End development at Alura school.
-         <li><tr>🔭 I created the "One Developer" brand to offer Graphic Designer and web development services as a Freelancer.</tr></li>
-         <li><tr>🌱 Right now I'm learning HTML, CSS, JavaScript, React, TypeScrypt and React Native para Mobile.</tr></li>
-         <li><tr>👯 I’m looking to collaborate on any project that accepts Dev Jr! 👍</tr></li>
-         <li><tr>🤔 I'm looking for partnerships to learn HTML, CSS and JavaScript.</tr></li>
-         <li><tr>💬 Ask me about My Life...</tr></li>
-         <li><tr>⚡ Fun fact: I've given up so many times to study programming that I came back after giving up on giving up!😂 </tr></li>
+         <li><tr>🧑‍🚀 Formado em Análise e Desenvolvimento de Sistemas 🎓.</tr></li>
+         <li><tr>📖 Dev autodidata e apaixonado, sempre buscando subir de nível no Front-End.</tr></li>
+         <li><tr>🔭 Criei a "One Developer", uma iniciativa onde misturo Design Gráfico e Desenvolvimento Web para meus clientes freelance.</tr></li>
+         <li><tr>🌱 Meu parquinho de diversões atual: HTML, CSS, JavaScript, React, Next.js, Vite, TypeScript e Tailwind para PWA.</tr></li>
+         <li><tr>👯 Adoraria colaborar em projetos inovadores que estejam de portas abertas para Devs Júnior!👍</tr></li>
+         <li><tr>🤔 Tenho tempo e interesse para parcerias de código para praticar e criar algo novo.</tr></li>
+         <li><tr>💬 Me pergunte sobre: UI/UX, desafios de programação ou a vida em geral... </tr></li>
+         <li><tr>⚡ Curiosidade: Eu larguei a programação tantas vezes que acabei voltando depois de finalmente desistir de desistir! 😂 </tr></li> 
     </ul>
   </div>
 </section>
