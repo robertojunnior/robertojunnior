@@ -7,8 +7,8 @@
     <ul align="left" list-style="none">
          <li><tr>🧑‍🚀 Formado em Análise e Desenvolvimento de Sistemas 🎓.</tr></li>
          <li><tr>📖 Dev autodidata e apaixonado, sempre buscando subir de nível no Front-End.</tr></li>
-         <li><tr>🔭 Criei a "One Developer", uma iniciativa onde misturo Design Gráfico e Desenvolvimento Web para meus clientes freelance.</tr></li>
-         <li><tr>🌱 Meu parquinho de diversões atual: HTML, CSS, JavaScript, React, Next.js, Vite, TypeScript e Tailwind para PWA.</tr></li>
+         <li><tr>🔭 Criei a "One Developer", uma iniciativa Freelance onde misturo Design Gráfico e Desenvolvimento Web para meus clientes.</tr></li>
+         <li><tr>🌱 Minha trilha: Html, CSS, JavaScript, React, Next.js, Vite, TypeScript e Tailwind para PWA.</tr></li>
          <li><tr>👯 Adoraria colaborar em projetos inovadores que estejam de portas abertas para Devs Júnior!👍</tr></li>
          <li><tr>🤔 Tenho tempo e interesse para parcerias de código para praticar e criar algo novo.</tr></li>
          <li><tr>💬 Me pergunte sobre: UI/UX, desafios de programação ou a vida em geral... </tr></li>
