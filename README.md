@@ -70,9 +70,9 @@
 </section>
 
 <!-- streaks de código -->
-<!-- <section id="streaks" align="center">
+<section id="streaks" align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=robertojunnior&theme=dracula&hide_border=false"/></a>
-</section> -->
+</section>
 
 <!-- Projetos desenvolvidos em imersões e aulas -->
 <section id="projetos__cascata">
