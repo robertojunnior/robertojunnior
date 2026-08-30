@@ -6,13 +6,14 @@
   <div align="center">
     <ul align="left" list-style="none">
          <li><tr>🧑‍🚀 Conhecimento: Formado em Análise e Desenvolvimento de Sistemas 🎓.</tr></li>
-         <li><tr>📖 Quem sou?: Dev autodidata e apaixonado, sempre buscando aprender mais sobre Front-End.</tr></li>
+         <li><tr>🧑 Estudos: Formação Front-End Alura e programação JS 😎.</tr></li>
+         <li><tr>📖 Quem sou?: Dev autodidata, apaixonado por tecnologia e Front-End.</tr></li>
          <li><tr>🔭 Um passo: Criei a marca "One Developer", onde misturo Design Gráfico e Desenvolvimento Web para projetos Freelance.</tr></li>
-         <li><tr>🌱 Minha trilha: Html, CSS, JavaScript, React, TypeScript e Tailwind.</tr></li>
+         <li><tr>🌱 Minha trilha: Html, CSS, JavaScript, React, TypeScript, Tailwind e PostgreSQL.</tr></li>
          <li><tr>👯 Um desejo: Colaborar em projetos inovadores que estejam de portas abertas para Devs!👍</tr></li>
          <li><tr>🤔 Uma oportunidade: Tenho tempo e interesse para parcerias de código para praticar e criar algo novo, só chamar!</tr></li>
-         <li><tr>💬 Me pergunte sobre: UI/UX, desafios de programação ou a vida em geral... </tr></li>
-         <li><tr>⚡ Curiosidade: Eu larguei a programação tantas vezes que acabei voltando depois de finalmente desistir de desistir! 😂 </tr></li> 
+         <li><tr>💬 Me pergunte sobre: Design Gráfico, UI/UX, desafios ou a vida em geral... </tr></li>
+         <li><tr>⚡ Curiosidade: Eu desisti da programação tantas vezes que acabei voltando depois de finalmente desistir de desistir! 😂 </tr></li> 
     </ul>
   </div>
 </section>
