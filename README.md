@@ -69,7 +69,7 @@
 <!-- Projetos desenvolvidos em imersões e aulas -->
 <section id="projetos__cascata">
 
-  <h2 align="center">LATEST PROJECTS AND IMMERSIONS</h2>
+  <h2 align="center">Últimos projetos e imersões</h2>
 
 <!-- ⭐ PROJETO EM DESTAQUE -->
 <div align="center" id="projeto__destaque">
