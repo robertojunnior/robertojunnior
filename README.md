@@ -35,8 +35,6 @@
   </div>
   <br>
 </section>-->
-<br>
-<br> 
 
 <!-- Linguagens e ferramentas -->
 <section id="linguagens_ferramentas">
@@ -58,6 +56,8 @@
    <br>
    <br>
 </section>
+<br>
+<br>
 
 <!-- streaks de código -->
 <section id="streaks" align="center">
