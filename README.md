@@ -17,8 +17,6 @@
     </ul>
   </div>
 </section>
-<br>
-<br>
 
 <!-- Contatos -->
 <!-- <section id="contatos">
