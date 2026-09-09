@@ -73,33 +73,30 @@
 
 <!-- ⭐ PROJETO EM DESTAQUE -->
 <div align="center" id="projeto__destaque">
-  <table>
-    <tr>
-      <td bgcolor="#161B22">
-        <h3 align="center">⭐ Projeto em Destaque</h3>
-        <a rel="external" href="https://onedeveloper.com.br" target="_blank">
-          <img align="center" alt="projeto-one-developer" width="100%" src="https://mgslzitzfzgtwevgwjfj.supabase.co/storage/v1/object/public/assets/images/og.webp" target="_blank" rel="external">
-        </a>
-        <br>
-        <h5 align="center">Projeto - Site One Developer</h5>
-        <p align="center">Site portfólio, com cards de projetos e produtos selecionados.</p>
-        <h5 align="center">Tecnologias utilizadas neste projeto:</h5>
-        <p align="center" id="badge__linguagens">
-          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-          <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-          <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
-        </p>
-        <br>
-        <p align="center">
-          <a rel="external" href="https://onedeveloper.com.br" target="_blank" style="text-decoration:none">
-            <strong>🚀 Ver projeto ao vivo</strong>
-          </a>
-        </p>
-        <br>
-      </td>
-    </tr>
-  </table>
+  <table id="git__check" width="100%">
+  <tr>
+    <td bgcolor="#282A36">
+    <h3 align="center">⭐ Projeto em Destaque</h3>
+      <a rel="external" href="https://github.com/robertojunnior/git-check" target="_blank">
+        <img align="center" alt="git-check-projeto" width="100%" src="https://github.com/robertojunnior/git-check/blob/main/assets/mockup-entrega.webp?raw=true" target="_blank" rel="external">
+      </a>
+      <br>
+      <a rel="external" href="https://github.com/robertojunnior/git-check/" target="_blank">
+        <img align="center" alt="junior-git-check" width="60px" src="https://github.com/robertojunnior/git-check/blob/main/assets/icon-192.png?raw=true">
+      </a>
+      <br>
+      <h5>Projeto - Git Check</h5>
+      <p>Neste projeto você pode verificar com uma rápida consulta quem você segue aqui no GitHub, mas não te segue de volta.</p>
+      <h5>Tecnologias utilizadas neste projeto:</h5>
+      <p id="badge__linguagens">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+      </p>
+      <br>
+    </td>
+  </tr>
+</table>
 </div>
 <br>
 
@@ -168,24 +165,27 @@
 </table>
 
 <!-- 0º Git Chekc -->
-<table id="git__check" width="100%">
+<table>
   <tr>
-    <td bgcolor="#282A36">
-      <a rel="external" href="https://github.com/robertojunnior/git-check" target="_blank">
-        <img align="center" alt="git-check-projeto" width="100%" src="https://github.com/robertojunnior/git-check/blob/main/assets/mockup-entrega.webp?raw=true" target="_blank" rel="external">
+    <td bgcolor="#161B22">
+      <a rel="external" href="https://onedeveloper.com.br" target="_blank">
+        <img align="center" alt="projeto-one-developer" width="100%" src="https://mgslzitzfzgtwevgwjfj.supabase.co/storage/v1/object/public/assets/images/og.webp" target="_blank" rel="external">
       </a>
       <br>
-      <a rel="external" href="https://github.com/robertojunnior/git-check/" target="_blank">
-        <img align="center" alt="junior-git-check" width="60px" src="https://github.com/robertojunnior/git-check/blob/main/assets/icon-192.png?raw=true">
-      </a>
+      <h5 align="center">Projeto - Site One Developer</h5>
+      <p align="center">Site portfólio, com cards de projetos e produtos selecionados.</p>
+      <h5 align="center">Tecnologias utilizadas neste projeto:</h5>
+      <p align="center" id="badge__linguagens">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
+      </p>
       <br>
-      <h5>Projeto - Git Check</h5>
-      <p>Neste projeto você pode verificar com uma rápida consulta quem você segue aqui no GitHub, mas não te segue de volta.</p>
-      <h5>Tecnologias utilizadas neste projeto:</h5>
-      <p id="badge__linguagens">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+      <p align="center">
+        <a rel="external" href="https://onedeveloper.com.br" target="_blank" style="text-decoration:none">
+          <strong>🚀 Ver projeto ao vivo</strong>
+        </a>
       </p>
       <br>
     </td>
