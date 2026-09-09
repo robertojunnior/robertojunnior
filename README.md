@@ -17,6 +17,8 @@
     </ul>
   </div>
 </section>
+<br>
+<br>
 
 <!-- Contatos -->
 <!-- <section id="contatos">
@@ -56,13 +58,13 @@
    <br>
    <br>
 </section>
-<br>
-<br>
 
 <!-- streaks de código -->
 <section id="streaks" align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=robertojunnior&theme=dracula&hide_border=false"/></a>
 </section>
+<br>
+<br>
 
 <!-- Projetos desenvolvidos em imersões e aulas -->
 <section id="projetos__cascata">
