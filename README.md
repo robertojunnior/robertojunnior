@@ -34,9 +34,9 @@
     <img align="center" alt="Junior-discord" width="50px" src="https://cdn-icons-png.flaticon.com/512/552/552486.png">
   </div>
   <br>
-</section>
-      <br>
-      <br> -->
+</section>-->
+<br>
+<br> 
 
 <!-- Linguagens e ferramentas -->
 <section id="linguagens_ferramentas">
