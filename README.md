@@ -100,7 +100,38 @@
 </div>
 <br>
 
-<!-- 0.1º Site Dra. Juliana Lima -->
+<!-- 0.1º Site Dra. Jenifer Rodrigues | Biomédica Esteta -->
+<table id="site__jeniferRodrigues" width="100%">
+  <tr>
+    <td bgcolor="#161B22">
+      <a rel="external" href="https://drajeniferrodrigues.vercel.app" target="_blank">
+        <img align="center" alt="projeto-dra-jenifer-rodrigues" width="100%" src="https://raw.githubusercontent.com/robertojunnior/robertojunnior/main/assets/capa-dra-jenifer-rodrigues.webp" target="_blank" rel="external">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#282A36">
+      <br>
+      <h5>Projeto | Dra. Jenifer Rodrigues | Biomédica</h5>
+      <p>Landing page institucional da biomédica esteta Dra. Jenifer Rodrigues (CRBM 14592), com estética facial, agendamento direto pelo WhatsApp, quiz de pré-avaliação e conformidade básica com a LGPD.</p>
+      <h5>Tecnologias utilizadas neste projeto:</h5>
+      <p id="badge__linguagens">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
+      </p>
+      <br>
+      <p>
+        <a rel="external" href="https://drajeniferrodrigues.vercel.app" target="_blank" style="text-decoration:none">
+          <strong>🚀 Ver projeto ao vivo</strong>
+        </a>
+      </p>
+      <br>
+    </td>
+  </tr>
+</table>
+
+<!-- 0.2º Site Dra. Juliana Lima -->
 <table id="site__julianaLima" width="100%">
   <tr>
     <td bgcolor="#161B22">
@@ -131,7 +162,7 @@
   </tr>
 </table>
 
-<!-- 0.2º Site Psi. Dra. Helena Martins -->
+<!-- 0.3º Site Psi. Dra. Helena Martins -->
 <table id="site__helenaMartins" width="100%">
   <tr>
     <td bgcolor="#161B22">
