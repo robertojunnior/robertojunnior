@@ -113,7 +113,7 @@
     <td bgcolor="#282A36">
       <br>
       <h5>Projeto | Dra. Jenifer Rodrigues | Biomédica</h5>
-      <p>Landing page institucional da biomédica esteta Dra. Jenifer Rodrigues (CRBM 14592), com estética facial, agendamento direto pelo WhatsApp, quiz de pré-avaliação e conformidade básica com a LGPD.</p>
+      <p>Landing page institucional da biomédica esteta Dra. Jenifer Rodrigues (CRBM 14592), especializada em estética facial, agendamento direto pelo WhatsApp, quiz de pré-avaliação e conformidade básica com a LGPD.</p>
       <h5>Tecnologias utilizadas neste projeto:</h5>
       <p id="badge__linguagens">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
