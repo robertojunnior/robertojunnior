@@ -136,7 +136,7 @@
   <tr>
     <td bgcolor="#161B22">
       <a rel="external" href="https://site-psicologia-hm.vercel.app/" target="_blank">
-        <img align="center" alt="projeto-helena-martins" width="100%" src="https://mgslzitzfzgtwevgwjfj.supabase.co/storage/v1/object/public/assets/images/projects/helena-martins/capa-helena-martins-1.webp" target="_blank" rel="external">
+        <img align="center" alt="projeto-helena-martins" width="100%" src="https://hbqcuecmhcrqbfboeszo.supabase.co/storage/v1/object/public/public-assets/capa-helena-martins.webp" target="_blank" rel="external">
       </a>
     </td>
   </tr>
