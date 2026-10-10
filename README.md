@@ -105,7 +105,7 @@
   <tr>
     <td bgcolor="#161B22">
       <a rel="external" href="https://drajeniferrodrigues.vercel.app" target="_blank">
-        <img align="center" alt="projeto-dra-jenifer-rodrigues" width="100%" src="https://mgslzitzfzgtwevgwjfj.supabase.co/storage/v1/object/public/assets/images/projects/site-biomedica/capa-dra-jenifer-rodrigues2.webp" target="_blank" rel="external">
+        <img align="center" alt="projeto-dra-jenifer-rodrigues" width="100%" src="https://github.com/robertojunnior/robertojunnior/blob/main/assets/capa-dra-jenifer-rodrigues.webp?raw=true" target="_blank" rel="external">
       </a>
     </td>
   </tr>
